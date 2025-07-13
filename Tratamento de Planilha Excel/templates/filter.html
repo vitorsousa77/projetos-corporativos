@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultados do Filtro</title>
+    <style>
+        .data {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        .data th, .data td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        .data th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Resultados do Filtro</h1>
+    <a href="/">Voltar</a>
+    <p><a href="{{ file_url }}">Baixar o arquivo Excel</a></p>
+    {% if tables %}
+        {% for table in tables %}
+            <div>{{ titles[loop.index0] }}</div>
+            {{ table|safe }}
+        {% endfor %}
+        
+    {% else %}
+        <p>Nenhum resultado encontrado.</p>
+    {% endif %}
+</body>
+</html>

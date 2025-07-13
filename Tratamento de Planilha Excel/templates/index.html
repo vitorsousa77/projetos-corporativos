@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filtro por Nome BPD</title>
+</head>
+<body>
+    <h1>Filtrar por Nome BPD</h1>
+    <form action="/filter" method="get">
+        <label for="nome_bpd">Nome BPD:</label>
+        <select id="nome_bpd" name="nome_bpd" required>
+            <option value="">Selecione um nome BPD</option>
+            {% for nome in nomes_bpd %}
+                <option value="{{ nome }}">{{ nome }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Filtrar</button>
+    </form>
+</body>
+</html>

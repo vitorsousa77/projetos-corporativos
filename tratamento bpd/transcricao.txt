@@ -1,0 +1,2671 @@
+0:0:3.993 --> 0:0:4.993 
+João Silva 
+Mas não consegui ainda. 
+
+0:0:4.513 --> 0:0:7.543 
+Pedro Souza 
+Não tranquilo, mas vai dar certo. 
+
+0:0:6.403 --> 0:0:9.573 
+João Silva 
+OPA, não apertei errado, deixa eu voltar aqui. 
+
+0:0:8.493 --> 0:0:9.33 
+Pedro Souza 
+Tá tranquilo. 
+
+0:0:11.43 --> 0:0:12.323 
+Pedro Souza 
+Eu vou abrindo aqui também minhas coisas. 
+
+0:0:12.333 --> 0:0:14.393 
+Pedro Souza 
+Enquanto isso, para mostrar como que a gente está fazendo. 
+
+0:0:17.223 --> 0:0:18.3 
+Pedro Souza 
+É a gente. 
+
+0:0:17.233 --> 0:0:19.163 
+João Silva 
+Ele está compartilhando, está vendo metal? 
+
+0:0:19.13 --> 0:0:20.993 
+Pedro Souza 
+Não, ainda não, não voltou. 
+
+0:0:21.193 --> 0:0:24.263 
+João Silva 
+A deixou pra voltar de compartilhar? 
+
+0:0:26.523 --> 0:0:30.693 
+João Silva 
+Mas também toda a beleza está vendo agora, não é? Beleza? 
+
+0:0:29.123 --> 0:0:29.683 
+Pedro Souza 
+Agora, sim. 
+
+0:0:30.703 --> 0:0:41.743 
+João Silva 
+Então aqui na no SharePoint Da da stefany mesmo também aqui no sapo, o começo que é melhor, então vem aqui em general aí o que que eu criei? 
+
+0:0:40.173 --> 0:0:40.583 
+Pedro Souza 
+Aham. 
+
+0:0:41.923 --> 0:0:45.763 
+João Silva 
+Eu criei essa planilha aqui do que seria mais voltada para Obi. 
+
+0:0:45.773 --> 0:0:46.253 
+João Silva 
+Ai está. 
+
+0:0:48.853 --> 0:0:57.383 
+João Silva 
+E aí, como que a gente aí eu adicionei, adicionei essa coluna, módulo essa coluna submódulo, então o pessoal tá tá olhando aqui, está vinculando, né? 
+
+0:0:57.393 --> 0:1:7.843 
+João Silva 
+O requisito, que é esse código aqui, com a discrição e verificando quais são seus módulos, se pode ver que tem uns aqui que tem sub módulos, tem uns que tem que estão vazios. 
+
+0:0:57.523 --> 0:0:57.633 
+Pedro Souza 
+O. 
+
+0:0:59.273 --> 0:1:1.93 
+Pedro Souza 
+Aham, sim. 
+
+0:1:6.293 --> 0:1:6.743 
+Pedro Souza 
+Hã? 
+
+0:1:7.853 --> 0:1:14.153 
+João Silva 
+Ainda que a gente tá mapeando e tem uns que tem vários módulos junto só por exemplo, você Da que esse é um monstrinho? 
+
+0:1:9.643 --> 0:1:9.733 
+Pedro Souza 
+O. 
+
+0:1:14.983 --> 0:1:29.163 
+João Silva 
+Então, aqui tem um requisito que permeia por mais de um modo, e aí, só para você ter uma ideia aqui do lado, eu coloquei também algumas coisas para ajudar, mas isso pensando mais é na minha parte de Bee. 
+
+0:1:29.173 --> 0:1:30.733 
+João Silva 
+Na parte de relatórios, principalmente. 
+
+0:1:30.743 --> 0:1:32.3 
+João Silva 
+Então, o que que eu estou fazendo? 
+
+0:1:32.213 --> 0:1:33.763 
+João Silva 
+Estou vinculando um epg. 
+
+0:1:34.233 --> 0:1:53.493 
+João Silva 
+Se ele atenua, tende parcial e alguns casos, quando o consultor lei isso daqui e não tá claro de qual módulo que é ou o que ele quis dizer com alguma determinada palavra pessoal, está colocando um detalhar aqui ou até mesmo no Guns casos eles já estão colocando o que é um gap cross, tá? 
+
+0:1:50.163 --> 0:1:50.603 
+Pedro Souza 
+Bem. 
+
+0:1:54.23 --> 0:1:56.113 
+João Silva 
+Então esse é o mapeamento que está sendo feito hoje. 
+
+0:1:56.323 --> 0:1:57.213 
+João Silva 
+Qual que seria a ideia? 
+
+0:1:56.713 --> 0:1:57.53 
+Pedro Souza 
+Sim. 
+
+0:1:57.363 --> 0:1:59.533 
+João Silva 
+E se essa planilha ter mais colunas? 
+
+0:1:59.543 --> 0:2:2.793 
+João Silva 
+Com mais informações, por exemplo, vai ter um código de BP. 
+
+0:2:2.803 --> 0:2:12.373 
+João Silva 
+Depois vai ter um código de workshop, então a gente conseguia amarrar tudo a nível de requisito, que seria a menor granularidade do do detalhe. 
+
+0:2:5.963 --> 0:2:6.233 
+Pedro Souza 
+Não. 
+
+0:2:10.323 --> 0:2:10.663 
+Pedro Souza 
+Um. 
+
+0:2:12.413 --> 0:2:16.923 
+João Silva 
+Então a gente chegaria um momento que a gente fosse fazer uma análise, por exemplo. 
+
+0:2:16.933 --> 0:2:17.873 
+João Silva 
+Assim, a beleza. 
+
+0:2:17.883 --> 0:2:24.423 
+João Silva 
+Eu quero olhar que f é na parte de compras, partir de relatórios, qual que é esse requisito? 
+
+0:2:24.433 --> 0:2:27.483 
+João Silva 
+Eu consigo chegar até na descrição aqui, sabe? 
+
+0:2:27.493 --> 0:2:34.853 
+João Silva 
+Para conseguir fazer até um inventário e fazer todo isso, então a ideia é essa hoje, como que a gente está hoje? 
+
+0:2:29.153 --> 0:2:30.753 
+Pedro Souza 
+Meus que eu tudo categorizado lá. 
+
+0:2:33.793 --> 0:2:33.943 
+Pedro Souza 
+Tá? 
+
+0:2:34.863 --> 0:2:40.933 
+João Silva 
+A gente ainda tem 287, ainda que faltam ser mapeados e a distribuição, por enquanto está assim. 
+
+0:2:38.623 --> 0:2:38.733 
+Pedro Souza 
+O. 
+
+0:2:40.943 --> 0:2:44.843 
+João Silva 
+Tá dentro dos módulos atuais, a gente precisa arrumar algumas coisas, por exemplo. 
+
+0:2:43.893 --> 0:2:44.23 
+Pedro Souza 
+Tá? 
+
+0:2:44.853 --> 0:2:47.183 
+João Silva 
+Tá vendo que fe é? 
+
+0:2:47.193 --> 0:2:48.63 
+João Silva 
+Está muito quebrado. 
+
+0:2:48.73 --> 0:2:49.313 
+João Silva 
+Tem Wi-Fi sozinho? 
+
+0:2:48.653 --> 0:2:48.873 
+Pedro Souza 
+Sonho. 
+
+0:2:49.323 --> 0:2:53.503 
+João Silva 
+Aí tenho e subi módulos aqui e se eu colocar o sub módulos aqui, virou uma bagunça geral. 
+
+0:2:53.873 --> 0:2:55.983 
+João Silva 
+Então a gente precisa criar um outro padrão, sabe? 
+
+0:2:53.933 --> 0:2:55.183 
+Pedro Souza 
+É, e aí virá sim. 
+
+0:2:55.993 --> 0:3:6.643 
+João Silva 
+Só um módulo está ficando muito quebrado, então talvez colocar alguma coisa com finanças Da e tudo o que é defi fica lá, sabe, criar uma outra nomenclatura para isso? 
+
+0:3:2.503 --> 0:3:3.813 
+Pedro Souza 
+Eric, não tá tudo dentro lá. 
+
+0:3:7.73 --> 0:3:7.903 
+Pedro Souza 
+Sim, é. 
+
+0:3:7.183 --> 0:3:11.943 
+João Silva 
+Eu Acredito que eles queiram ver isso também aqui no, no Power bi que eu estou montando. 
+
+0:3:12.143 --> 0:3:19.63 
+João Silva 
+Chegar no nível a beleza, eu quero ver, então aqui vamos chamar de finanças, quero ver finanças, eu vou olhar aqui fica melhor. 
+
+0:3:19.603 --> 0:3:20.603 
+João Silva 
+É finanças. 
+
+0:3:20.613 --> 0:3:25.783 
+João Silva 
+Eu quero ver Oo workshop, por exemplo, que vai falar sobre contabilidade aqui, por exemplo. 
+
+0:3:25.793 --> 0:3:34.253 
+João Silva 
+Assim, em cima de contabilidade, eu teria workshop com os tópicos, por exemplo, e aí, dentro de cada tópico, eu vou ter. 
+
+0:3:34.383 --> 0:3:37.93 
+João Silva 
+Quais são os requisitos que estão relacionados àquele tópico? 
+
+0:3:37.103 --> 0:3:38.973 
+João Silva 
+Pode ser que eles queiram ver isso, entendeu? 
+
+0:3:37.983 --> 0:3:38.243 
+Pedro Souza 
+Um. 
+
+0:3:39.13 --> 0:3:47.933 
+João Silva 
+Então, e aí há, talvez queira montar alguma coisa com isso, então seria mais a IA lendo essa planilha com mais informações. 
+
+0:3:48.83 --> 0:3:49.193 
+João Silva 
+Mas o que que eles querem ver? 
+
+0:3:49.203 --> 0:3:50.213 
+João Silva 
+A gente não sabe ainda. 
+
+0:3:50.333 --> 0:3:53.233 
+João Silva 
+Acho que por isso que eu chamei o hobby é Roberson. 
+
+0:3:53.243 --> 0:4:0.243 
+João Silva 
+É, chamei o Robson pra ver qualquer ideia de vocês, mas aí ele falou conversa com Wesley, aí você também não sabe de tudo, né? 
+
+0:4:0.253 --> 0:4:8.693 
+João Silva 
+Então, acho que falta a gente fazer uma reunião com a gestão para ver o que que eles querem ver no futuro, porque se não a gente tem que idealizar aqui, né? 
+
+0:4:6.3 --> 0:4:6.543 
+Pedro Souza 
+É, eu. 
+
+0:4:7.913 --> 0:4:9.443 
+Pedro Souza 
+Eu posso te mostrar. 
+
+0:4:8.703 --> 0:4:9.613 
+João Silva 
+Uma base, não é? 
+
+0:4:9.453 --> 0:4:12.323 
+Pedro Souza 
+É, eu posso te mostrar como que a gente tem atualmente. 
+
+0:4:12.333 --> 0:4:19.523 
+Pedro Souza 
+A ideia que a gente tinha feito aqui para mostrar que tipo, o que, que aí as necessariamente tá pegando de informação para fazer Oo ppd também quer? 
+
+0:4:19.533 --> 0:4:23.23 
+Pedro Souza 
+A gente vai é, já vai se contextualizando. 
+
+0:4:23.33 --> 0:4:24.793 
+Pedro Souza 
+Aí também, deixa eu pegar aqui. 
+
+0:4:26.463 --> 0:4:28.643 
+Pedro Souza 
+A deixa uma pessoa exemplo, já dele feito. 
+
+0:4:29.483 --> 0:4:30.943 
+Pedro Souza 
+Vou pegar um de vendas aqui. 
+
+0:4:30.223 --> 0:4:30.423 
+João Silva 
+Tá bom? 
+
+0:4:31.463 --> 0:4:34.703 
+Pedro Souza 
+Foi o que eu mandei meu até para o Rodrigo. 
+
+0:4:34.713 --> 0:4:36.473 
+Pedro Souza 
+Dar uma variada colocava. 
+
+0:4:38.413 --> 0:4:39.203 
+Pedro Souza 
+Estava bom aqui. 
+
+0:4:39.213 --> 0:4:40.723 
+Pedro Souza 
+O documento, eu vou abrir aqui pra. 
+
+0:4:40.523 --> 0:4:41.143 
+João Silva 
+Quem estava? 
+
+0:4:44.243 --> 0:4:48.773 
+João Silva 
+Que a ideia do bié é que é mensurar também qual que é o módulo tá com mais atividades, né? 
+
+0:4:48.783 --> 0:5:4.493 
+João Silva 
+Que vai ter mais configuração, tem mais esforço para para, por exemplo, a gente tá vendo que f vai seu os maiores é, tá até para o meu senhor, por exemplo, aqui eu sei que ele vai, já tem 3 ou 4 consultores aqui. 
+
+0:4:49.443 --> 0:4:50.903 
+Pedro Souza 
+Sim, sim, o. 
+
+0:4:56.713 --> 0:4:57.743 
+Pedro Souza 
+É, tem muita coisa, né? 
+
+0:4:58.143 --> 0:4:58.743 
+Pedro Souza 
+Sobremodo. 
+
+0:5:3.303 --> 0:5:4.793 
+Pedro Souza 
+Aham. 
+
+0:5:4.503 --> 0:5:5.293 
+João Silva 
+Por enquanto, tem um. 
+
+0:5:5.303 --> 0:5:10.73 
+João Silva 
+Pode ser que eu preciso é aumentar aqui a quantidade de Da é uma são da gestão, né? 
+
+0:5:7.243 --> 0:5:7.603 
+Pedro Souza 
+Sim. 
+
+0:5:10.83 --> 0:5:10.343 
+João Silva 
+Mas. 
+
+0:5:11.533 --> 0:5:13.3 
+João Silva 
+Mas para dar em sites para eles, mas. 
+
+0:5:12.113 --> 0:5:12.253 
+Pedro Souza 
+Tá? 
+
+0:5:13.533 --> 0:5:15.843 
+Pedro Souza 
+Sim, eu vou compartilhar minha tela aqui agora. 
+
+0:5:15.853 --> 0:5:30.413 
+Pedro Souza 
+Também partilhe variar pouquinho, porque aí eu vou te mostrar aqui algumas coisas que a gente vai, vai melhorando aqui, ó, a nossa vida chega aqui, é o que que a gente, junto com o pessoal da gestão ali e tudo mais tinha decidido fazer. 
+
+0:5:16.703 --> 0:5:17.513 
+João Silva 
+Beleza, vai lá. 
+
+0:5:30.423 --> 0:5:33.93 
+Pedro Souza 
+E quais eram os testes que a gente estava conduzindo, né? 
+
+0:5:33.673 --> 0:5:41.573 
+Pedro Souza 
+A gente tinha dado a ideia de fazer um diretório específico de ar aqui, pelo menos nessa primeira fase de testes, né? 
+
+0:5:41.583 --> 0:5:43.283 
+Pedro Souza 
+Gente, tinha montado aqui alguns diretórios. 
+
+0:5:44.153 --> 0:5:52.133 
+Pedro Souza 
+É para a gente conseguir justamente pegar aquelas informações que a gente tava utilizando para fazer o bebê Da até o momento e poder fazer isso. 
+
+0:5:51.313 --> 0:5:51.863 
+João Silva 
+O run? 
+
+0:5:52.143 --> 0:5:55.123 
+Pedro Souza 
+Então, a gente tinha pastinha de BDA, gente, tem alguns módulos aqui. 
+
+0:5:55.133 --> 0:5:58.843 
+Pedro Souza 
+Já no pessoal que estava ajudando a gente, então eu vou pegar do SDK. 
+
+0:5:58.853 --> 0:6:11.453 
+Pedro Souza 
+O Rodrigo estava dando esse apoio aqui, aí a gente tinha que a uma pasta que seria OAOBPD de vendas, então ele teria ali dentro os processos de vendas e aí a gente entraria aqui. 
+
+0:6:12.783 --> 0:6:19.983 
+Pedro Souza 
+E aí aqui tem, aqui já são os documentos prontos, mas a gente teria que uma planilha com que a gente pediu, né? 
+
+0:6:19.993 --> 0:6:24.743 
+Pedro Souza 
+Pra eles, por exemplo, a para OBPD de vendas para eles já terem um filtro e tudo mais. 
+
+0:6:24.753 --> 0:6:26.103 
+Pedro Souza 
+E nessa planilha aqui que é o que. 
+
+0:6:26.113 --> 0:6:38.53 
+Pedro Souza 
+A que é o que a nossa ferramenta ela está utilizando para poder fazer o documento eles preencherem, por exemplo, aqui nessa coluna, o código do requisito específico para OBPD de vendas. 
+
+0:6:38.103 --> 0:6:40.713 
+Pedro Souza 
+Então, já existe esse esse filtro para qual? 
+
+0:6:40.723 --> 0:6:42.433 
+Pedro Souza 
+BBB, que que isso está indo, né? 
+
+0:6:43.103 --> 0:6:47.243 
+Pedro Souza 
+É, aí tem a descrição normal que nem já tem até nessa outra planilha e tudo mais. 
+
+0:6:47.973 --> 0:6:49.643 
+Pedro Souza 
+Aqui foi um. 
+
+0:6:48.103 --> 0:6:49.253 
+João Silva 
+Aham. 
+
+0:6:50.73 --> 0:6:50.363 
+Pedro Souza 
+Foi. 
+
+0:6:50.373 --> 0:6:51.103 
+Pedro Souza 
+Foi um requisito. 
+
+0:6:51.113 --> 0:6:54.323 
+Pedro Souza 
+Os novos, assim a gente, isso aqui é um é informação, dá-me assim, né? 
+
+0:6:54.333 --> 0:7:5.283 
+Pedro Souza 
+A gente colocou aqui para fazer teste, a gente tirou, é isso aqui, pra, enfim, tipo, naquele caso De tem requisitos que já estão mapeados. 
+
+0:7:5.293 --> 0:7:8.123 
+Pedro Souza 
+Que isso aqui já estão na planilha, por exemplo, esses bens 52. 
+
+0:7:8.233 --> 0:7:11.543 
+Pedro Souza 
+Mas e se a gente identificar outros depois e tudo mais quando for fazer o bebê? 
+
+0:7:11.593 --> 0:7:15.583 
+Pedro Souza 
+Não beleza aí, tipo, também dá pra colocar ON aqui um novo, né? 
+
+0:7:15.593 --> 0:7:22.403 
+Pedro Souza 
+Bota aqui uma descrição básica, aqui a gente está especificando qual módulo que é então no caso aqui do BBB de vendas, tá? 
+
+0:7:22.413 --> 0:7:25.413 
+Pedro Souza 
+O módulo é, entendi a dpd de vendas, não é? 
+
+0:7:25.453 --> 0:7:32.833 
+Pedro Souza 
+É o nome dele, e aqui são os processos que estão dentro desse depender de vendas, que aí tem um processo de devolução, fornecimento gratuito, venda de estoque e tal. 
+
+0:7:33.783 --> 0:7:41.3 
+Pedro Souza 
+Tem aqui subprocesso, que basicamente repete, e o código do Dos copy item, e aqui seria algum? 
+
+0:7:41.13 --> 0:7:44.943 
+Pedro Souza 
+Já o código de algum gap, que já está amarrado com reduzido a discrição quando tiver, né? 
+
+0:7:44.753 --> 0:7:45.83 
+João Silva 
+Ao? 
+
+0:7:44.953 --> 0:7:50.543 
+Pedro Souza 
+No caso que o Rodrigo disse que não tinha nenhum para este, então ficou vazio e tudo certo. 
+
+0:7:51.53 --> 0:7:52.383 
+Pedro Souza 
+E aí, o que que estava sendo? 
+
+0:7:51.353 --> 0:7:56.673 
+João Silva 
+Me faz os tivesse desculpa, vai ser caso tivesse lá, porque tem outra planilha que AW. 
+
+0:7:53.593 --> 0:7:54.853 
+Pedro Souza 
+Oi, pode falar tranquilo. 
+
+0:7:56.683 --> 0:8:7.733 
+João Silva 
+Rousseff, que já tem lá os 165 gaps, caso um desses requisitos é fosse um dos requisitos gap, já estaria aí daí seria isso, né? Beleza. 
+
+0:7:57.763 --> 0:8:0.673 
+Pedro Souza 
+Aham, é sim. 
+
+0:8:0.713 --> 0:8:1.73 
+Pedro Souza 
+É, estou. 
+
+0:8:3.203 --> 0:8:3.313 
+Pedro Souza 
+O. 
+
+0:8:5.573 --> 0:8:7.523 
+Pedro Souza 
+É, já estaria aqui, é porque eu acho. 
+
+0:8:7.563 --> 0:8:15.673 
+Pedro Souza 
+Eu vou ver se eu acho outra planilha, mas eu tinha um Monte de contas a pagar, por exemplo, que aí o Helder tinha passado, é quem estava fez um teste com o primeiro que a gente fez, né? 
+
+0:8:15.713 --> 0:8:17.973 
+Pedro Souza 
+Mas quando a pagar, por exemplo, tinha 3 gaps. 
+
+0:8:16.383 --> 0:8:16.743 
+João Silva 
+Sim. 
+
+0:8:18.13 --> 0:8:19.303 
+Pedro Souza 
+E aí isso saia no já. 
+
+0:8:19.313 --> 0:8:32.293 
+Pedro Souza 
+No documento, no caso, se é, já estava amarrado, então há por requisitos, e se fosse um exemplo é o se o se esse 10012 aqui tivesse um gap aí aqui IA ter lá um OSDES lá, um gap e 01, não sei, tô chutando, tá? 
+
+0:8:19.563 --> 0:8:21.443 
+João Silva 
+Já estava amarrado, daí o. 
+
+0:8:32.593 --> 0:8:33.323 
+João Silva 
+Aham, sim. 
+
+0:8:33.673 --> 0:8:41.553 
+Pedro Souza 
+Um Macedo quente, sei lá, e aqui até a descrição aí se vê sim, seja para ver. 
+
+0:8:41.563 --> 0:8:42.453 
+Pedro Souza 
+Tinha Simpsons aí e tal. 
+
+0:8:43.293 --> 0:8:45.983 
+Pedro Souza 
+Vamos supor aí isso aqui a gente IA pegar tudo. 
+
+0:8:46.33 --> 0:8:49.43 
+Pedro Souza 
+Aí ela já está pronta para entender essas colunas. 
+
+0:8:49.83 --> 0:8:50.23 
+Pedro Souza 
+Nesse primeiro momento, né? 
+
+0:8:50.33 --> 0:8:51.463 
+Pedro Souza 
+Se eu vou ter que adicionar mais? 
+
+0:8:51.473 --> 0:8:55.763 
+Pedro Souza 
+A gente vê como faz, mas aí ela faria isso com base nessa planilha. 
+
+0:8:54.153 --> 0:8:54.313 
+João Silva 
+O. 
+
+0:8:55.773 --> 0:9:8.263 
+Pedro Souza 
+Pensando assim, à isso aqui é um BPD de vendas, então Oo consultor vale faz lo shopping, mapeia tudo certinho e para fazer o documento ele só preenche essa planilha já com os os os requisitos dele pra esse bebê. 
+
+0:9:8.273 --> 0:9:8.563 
+Pedro Souza 
+D, né? 
+
+0:9:8.573 --> 0:9:13.283 
+Pedro Souza 
+De vendas específica já deixa c, paradinho aqui e manda pra gente. 
+
+0:9:13.673 --> 0:9:15.293 
+Pedro Souza 
+É nesse primeiro momento. 
+
+0:9:15.303 --> 0:9:30.123 
+Pedro Souza 
+Nesse primeiro, a gente está fazendo com o diretório, mas a gente já está implementando uma a ferramenta num chat bot nosso, que é o Apollo, para eles fazerem isso já aqui pelo Tim, arrastando o os arquivos e fazer isso automaticamente receber por e-mail. 
+
+0:9:30.453 --> 0:9:38.423 
+Pedro Souza 
+A gente está está trabalhando nessa outra ferramenta mais para esse primeiro momento, a gente está trabalhando com os diretórios que que foi o primeiro primeiro passo que a gente fez, né? 
+
+0:9:30.863 --> 0:9:31.613 
+João Silva 
+Não é beleza? 
+
+0:9:38.933 --> 0:9:45.743 
+Pedro Souza 
+E aí, com base nisso aqui ela vai é montar algumas variáveis dentro da ferramenta, basicamente. 
+
+0:9:45.753 --> 0:9:48.33 
+Pedro Souza 
+Então, quem vai pegar e que Zito vai pegar? 
+
+0:9:48.43 --> 0:9:49.73 
+Pedro Souza 
+A descrição vai de guerra. 
+
+0:9:49.83 --> 0:9:54.463 
+Pedro Souza 
+Que tal módulo, qualquer bd quais que são os processos que ela vai trabalhar com essas informações? 
+
+0:9:54.473 --> 0:9:58.483 
+Pedro Souza 
+Vai pegar, por exemplo, AA que ele colocou um template, né? 
+
+0:9:58.493 --> 0:10:2.843 
+Pedro Souza 
+Que é um é um documento de exemplo dele também, então aqui, beleza. 
+
+0:10:2.853 --> 0:10:13.133 
+Pedro Souza 
+Aí pegou um ppd antigo de vendas também, que tem algumas coisas, então ela também vai pegar esse documento aqui e vai usar como conteúdo para montar o USB PD de vendas específico. 
+
+0:10:14.353 --> 0:10:20.533 
+Pedro Souza 
+E aí a gente tem aqui a transcrição também, que foi um teste que a gente fez, né? 
+
+0:10:14.393 --> 0:10:14.823 
+João Silva 
+O ruim. 
+
+0:10:20.543 --> 0:10:27.843 
+Pedro Souza 
+Porque pelo Tim foi 11 simulação mesmo de um de um Mini workshop, então o Rodrigo ele trouxe aqui algumas informações de cada processo. 
+
+0:10:27.853 --> 0:10:34.413 
+Pedro Souza 
+É o processo de devolução, faz isso de fornecimento gratuito e faz isso é a localização, vai ser essa ponte de integração vai ser XYZ? 
+
+0:10:34.423 --> 0:10:40.63 
+Pedro Souza 
+Enfim, a gente fez aqui uma simulação de um de um workshop mesmo pra já poder fazer os testes também. 
+
+0:10:41.53 --> 0:10:46.813 
+Pedro Souza 
+E aí, utilizando tudo isso, a gente tem como resultado, a gente faz todo o processamento da ferramenta e saiu. 
+
+0:10:46.823 --> 0:10:51.263 
+Pedro Souza 
+O documento já é montado dessa forma, então a gente tem alguns. 
+
+0:10:51.303 --> 0:10:54.973 
+Pedro Souza 
+Aqui está tudo em Alto Contraste, porque esse não eu não enxergo, tá? 
+
+0:10:55.383 --> 0:10:56.123 
+João Silva 
+Não, não, tudo bem. 
+
+0:10:55.853 --> 0:11:4.983 
+Pedro Souza 
+Eu tenho que usar aqui por isso que tá meio feinho, mas a ideia é essa, então a gente já tem um documento com os tópicos que já foram definidos, que vai ter e pelo que é. 
+
+0:11:5.23 --> 0:11:5.793 
+Pedro Souza 
+Foi passado. 
+
+0:11:5.843 --> 0:11:10.873 
+Pedro Souza 
+Os tópicos ensinam vão mudar realmente o que a alteração que está tendo essa questão, tipo de amarrar, né? 
+
+0:11:10.883 --> 0:11:12.463 
+Pedro Souza 
+Os requisitos que tipo a tem um que vai? 
+
+0:11:12.473 --> 0:11:18.153 
+Pedro Souza 
+Sb, mas também passa por FIE, tal é, mas os tópicos, pelo que eu entendi, vão continuar os mesmos? 
+
+0:11:18.163 --> 0:11:20.823 
+Pedro Souza 
+Então, a ideia, no final, pegando tudo aquilo. 
+
+0:11:20.833 --> 0:11:29.823 
+Pedro Souza 
+O documento que sai é esse, então aquele falar o processo de venda de estoque, aí está falando isso aqui tem preço do processo, é o processo de devolução, é isso. 
+
+0:11:29.833 --> 0:11:31.33 
+Pedro Souza 
+E é isso aí. 
+
+0:11:31.43 --> 0:11:32.53 
+Pedro Souza 
+O fornecimento gratuito. 
+
+0:11:31.103 --> 0:11:33.623 
+João Silva 
+E ele chega ao nível de requisito, comentar alguma coisa ou não. 
+
+0:11:32.63 --> 0:11:32.943 
+Pedro Souza 
+Aí, isso aí, isso. 
+
+0:11:34.123 --> 0:11:38.823 
+Pedro Souza 
+Então, aí é o próximo que a gente tem, é uma tabela dos requisitos, por exemplo. 
+
+0:11:38.833 --> 0:11:43.703 
+Pedro Souza 
+Então, aqui tem é o 2130 cálculo de SMS, ele faz um resumo, né? 
+
+0:11:43.713 --> 0:11:51.923 
+Pedro Souza 
+E coloca aqui, e esses aqui, ó, tem ON 001 n 002, que é justamente o que o consultor preencheu aqui na planilha. 
+
+0:11:51.73 --> 0:11:52.233 
+João Silva 
+Os Guedes lá, né? 
+
+0:11:52.273 --> 0:11:54.553 
+João Silva 
+Sim, eles. 
+
+0:11:52.653 --> 0:11:56.203 
+Pedro Souza 
+Em 6 ato, foi justamente o que ele já preencheu nessa nossa planilha, então é. 
+
+0:11:56.753 --> 0:11:59.3 
+Pedro Souza 
+É, tem aqui o 2130. 
+
+0:11:59.13 --> 0:12:0.253 
+Pedro Souza 
+UU. 
+
+0:12:0.263 --> 0:12:2.463 
+Pedro Souza 
+9042 ou 2012, né? 
+
+0:12:2.633 --> 0:12:6.223 
+Pedro Souza 
+Sempre chama vez no 132012 9 42. 
+
+0:12:6.683 --> 0:12:9.843 
+Pedro Souza 
+Aí ela pega aquela informação, já coloca aqui dentro do bbd falar beleza? 
+
+0:12:9.853 --> 0:12:11.703 
+Pedro Souza 
+Os requisitos para sbd são esses aqui. 
+
+0:12:12.563 --> 0:12:18.343 
+Pedro Souza 
+O parte 2, que é a atualização Dias oque que é do BPD de vendas aqui ela botou tributação, aí seria a venda de estoque. 
+
+0:12:18.353 --> 0:12:20.283 
+Pedro Souza 
+Mas enfim, aí ela é meio criativa. 
+
+0:12:20.293 --> 0:12:24.363 
+Pedro Souza 
+Às vezes pode voltar aqui, o subprocesso aí tem a descrição, né? 
+
+0:12:24.373 --> 0:12:28.723 
+Pedro Souza 
+Ela também faz um resumo, realmente um resumindo, já que eles têm essa informação em outra planilha, né? 
+
+0:12:28.733 --> 0:12:44.643 
+Pedro Souza 
+Aqui pro documentação resolveu que vem é, se for o caso de já ter um código de gap atrelada a um Rick Zito, que nem a gente simulou aqui agorinha, tipo esse sdf 01 para 10012 na hora que ele produz aqui o documento, ele também já vai aparecer o código aqui. 
+
+0:12:44.343 --> 0:12:46.23 
+João Silva 
+Já preenchi na coluna ligar, hã? 
+
+0:12:45.183 --> 0:12:47.823 
+Pedro Souza 
+Se tiver, é, se tiver, vai aparecer aqui. 
+
+0:12:47.833 --> 0:12:51.923 
+Pedro Souza 
+Se já foi gente, já testou ele aqui o código Luiz copiar, quem é? 
+
+0:12:51.963 --> 0:12:52.883 
+Pedro Souza 
+Caso necessário, né? 
+
+0:12:52.933 --> 0:12:54.683 
+Pedro Souza 
+A gente você deixou essa coluna aqui. 
+
+0:12:54.693 --> 0:13:5.463 
+Pedro Souza 
+Caso o consultor vencer isso, e aí ele segue a vida, aquele vai falar quais são esses copiar itens utilizados, então isso aqui já toda essa essa resposta aqui já foi, é tudo gerado Por Ela. 
+
+0:13:5.473 --> 0:13:8.203 
+Pedro Souza 
+Está todo o conteúdo que vai. 
+
+0:13:6.93 --> 0:13:8.773 
+João Silva 
+Hã, rã, ó fica bem completo já. 
+
+0:13:9.263 --> 0:13:17.933 
+Pedro Souza 
+É exato aí, mudança que ela pegou o cliente mudança aí aqui, isso aqui foi um teste que o Rodrigo fez até pular para o requisito tal a gente vai ter que mudar o seu fixo p lá. 
+
+0:13:17.943 --> 0:13:22.643 
+Pedro Souza 
+Aí ela já trouxe aqui, ó, o segundo de visita 2012 exige a emissão de alertas de nós. 
+
+0:13:22.653 --> 0:13:25.353 
+Pedro Souza 
+Até lá, além que tem aqui algumas mudanças, né? 
+
+0:13:25.363 --> 0:13:26.473 
+Pedro Souza 
+Não tem tanto em detalhe para isso. 
+
+0:13:26.483 --> 0:13:34.623 
+Pedro Souza 
+Não vai ficar horas aqui, aí tem aqui a inscrição do processo e aí já tem algumas coisas aqui também e tudo mais. 
+
+0:13:29.153 --> 0:13:29.483 
+João Silva 
+Oo. 
+
+0:13:34.773 --> 0:13:41.323 
+Pedro Souza 
+Aí outro ponto que eu acho que é legal lá embaixo deixa eu ver a detalhamento dos passos. 
+
+0:13:42.733 --> 0:13:43.253 
+Pedro Souza 
+Vamos ver. 
+
+0:13:43.263 --> 0:13:47.653 
+Pedro Souza 
+É aqui, é uma outra tabela que vai falar quais são os passos de cada processo. 
+
+0:13:47.663 --> 0:13:57.953 
+Pedro Souza 
+Então a gente está já atualizando isso na nossa ferramenta também para fasear de venda de estoque, aí ele faz uma tabelinha aqui ó, na venda de estoque, 01 a etapa do processo é a criação do cliente. 
+
+0:13:58.43 --> 0:14:0.283 
+Pedro Souza 
+Tem algum requisito, alguma referência de requisito? 
+
+0:14:0.293 --> 0:14:5.253 
+Pedro Souza 
+Aplicava para esse, para esse processo, parece que não tenho aí considerações e tal. 
+
+0:14:5.263 --> 0:14:7.953 
+Pedro Souza 
+Beleza, mas aqui, por exemplo, a criação de ordem de venda. 
+
+0:14:7.963 --> 0:14:9.273 
+Pedro Souza 
+Aí tem ele, pegou ela. 
+
+0:14:9.283 --> 0:14:13.553 
+Pedro Souza 
+Entendeu que esses requisitos aqui que estão naquela planilha, ali naquela tabela em cima, né? 
+
+0:14:13.563 --> 0:14:16.723 
+Pedro Souza 
+Na planilha, elas têm relação com criação de ordem de venda. 
+
+0:14:16.733 --> 0:14:24.333 
+Pedro Souza 
+Então eu coloco aqui como uma referência, então aí ela faz uma para cada processo aqui também, então tem de devolução também, fez. 
+
+0:14:24.343 --> 0:14:28.353 
+Pedro Souza 
+Botou aqui OON 001 já, né, que é o que a gente tem aqui. 
+
+0:14:28.363 --> 0:14:30.113 
+Pedro Souza 
+Já Na Na planilha também. 
+
+0:14:29.573 --> 0:14:30.803 
+João Silva 
+Novo laham. 
+
+0:14:30.983 --> 0:14:34.633 
+Pedro Souza 
+E isso é que também é devolução, então ela já beleza. 
+
+0:14:34.643 --> 0:14:40.173 
+Pedro Souza 
+Os passos são esses e ela referente a esse requisito e faz a mesma coisa para fornecimento gratuito. 
+
+0:14:40.183 --> 0:14:43.313 
+Pedro Souza 
+Aqui tá indicando ON 002, que é para esse processo. 
+
+0:14:43.323 --> 0:14:43.603 
+Pedro Souza 
+E tal. 
+
+0:14:43.643 --> 0:14:46.473 
+Pedro Souza 
+Dividiu section a localização. 
+
+0:14:46.483 --> 0:14:48.683 
+Pedro Souza 
+Beleza que veio da transcrição, tá? 
+
+0:14:48.693 --> 0:14:50.643 
+Pedro Souza 
+Essas informações, por isso tem alguma coisa que não tem. 
+
+0:14:50.653 --> 0:14:54.753 
+Pedro Souza 
+Por exemplo, ele não na Transmissão ele não comentou quantos usuários teriam, então ela deixa vazio. 
+
+0:14:54.763 --> 0:14:59.883 
+Pedro Souza 
+Ela não traz a aqueles outras informações de decisões de De. 
+
+0:15:0.683 --> 0:15:5.533 
+Pedro Souza 
+É decisões operacionais, de lógica, envolvimento, mas questões de política, compliance aqui. 
+
+0:15:6.753 --> 0:15:16.303 
+Pedro Souza 
+A ponto de integração na transcrição, por exemplo, ele falar é esse processo, ele vai ter uma integração com tm na parte XYZ. 
+
+0:15:16.313 --> 0:15:21.403 
+Pedro Souza 
+Então, nesse tópico aqui, pelo menos ela está conseguindo trazer, por exemplo, a integração com a parte de TM. 
+
+0:15:21.873 --> 0:15:23.563 
+Pedro Souza 
+É i, aqui fala qualquer modo, né? 
+
+0:15:23.573 --> 0:15:28.373 
+Pedro Souza 
+Tm transporte médico digital com integração de f no faturamento naquela De f. 
+
+0:15:29.553 --> 0:15:41.493 
+Pedro Souza 
+A ver que mais, enfim, aí ele diz aqui alguns pontos de integração que ele ela pega tanto do do contexto como um todo, quanto da transcrição dentro que o pessoal comenta isso tudo organizacional. 
+
+0:15:42.823 --> 0:15:48.3 
+Pedro Souza 
+E aqui tem um tópico legal, tá aqui embaixo, aqui são bastante gura ções. 
+
+0:15:48.13 --> 0:15:48.883 
+Pedro Souza 
+São os deltas, né? 
+
+0:15:48.923 --> 0:15:52.623 
+Pedro Souza 
+Tem alguns processos, ganha ela já está trazendo até Oo caminho aqui. 
+
+0:15:54.853 --> 0:16:0.543 
+Pedro Souza 
+E aqui, a parte de desenvolvimentos envolvidos, que eu estou procurando pra te mostrar também. 
+
+0:16:1.913 --> 0:16:2.353 
+Pedro Souza 
+Cadê? 
+
+0:16:3.43 --> 0:16:15.793 
+Pedro Souza 
+Aqui a gente tem um tópico aqui dentro do documento, que é, são os desenvolvimentos desenvolvidos que ela traz uma tabela de Guedes quando há um gap e nesse caso a gente fez um teste de, por exemplo, a gente não tem um gato aqui nessa primeira planilha. 
+
+0:16:16.313 --> 0:16:20.573 
+Pedro Souza 
+Mas durante a reunião, o consultor de ar não. 
+
+0:16:20.583 --> 0:16:23.973 
+Pedro Souza 
+Então, beleza, então quer dizer que nesse processo a gente tem um gap? 
+
+0:16:24.363 --> 0:16:26.833 
+Pedro Souza 
+É relacionado a isso, isso, aquilo e tal. 
+
+0:16:26.843 --> 0:16:32.803 
+Pedro Souza 
+Então, pela transcrição, ela já conseguiu, por exemplo, trazer para essa tabela um gap que não está na planilha. 
+
+0:16:32.813 --> 0:16:36.143 
+Pedro Souza 
+Então esse contexto que a gente fez também, então ela já conseguiu preencher. 
+
+0:16:33.413 --> 0:16:37.313 
+João Silva 
+Uma legal, e desde já tava já tem um padrão, né? 
+
+0:16:37.323 --> 0:16:38.383 
+João Silva 
+Esse código aí pra. 
+
+0:16:38.793 --> 0:16:39.993 
+Pedro Souza 
+E isso exato. 
+
+0:16:40.33 --> 0:16:50.613 
+Pedro Souza 
+A ideia, ela já está com com as instruções ali pra tipo, ó, se na transcrição você ouve ou você identificar alguma coisa que eles falaram de um gap novo que não esteja, é na variável. 
+
+0:16:40.503 --> 0:16:40.983 
+João Silva 
+Beleza. 
+
+0:16:50.623 --> 0:16:53.253 
+Pedro Souza 
+Ali naquela planilha você traz isso para a gente. 
+
+0:16:53.263 --> 0:16:56.873 
+Pedro Souza 
+Então a gente fez esse teste e ela trouxe isso só com o que ele disse na reunião. 
+
+0:16:56.883 --> 0:17:1.163 
+Pedro Souza 
+Então, falar, ela deu o nome aqui, tipo n Guedes, 01 depois, pessoal, pode trocar, né? 
+
+0:17:1.783 --> 0:17:9.623 
+Pedro Souza 
+Requisito, ela aqui no amarrou em nenhum, porque aí eu acho que talvez ele teria que falar, uau, isso aqui pode ser amarrado no requisito tal. 
+
+0:17:9.723 --> 0:17:13.3 
+Pedro Souza 
+Enfim, aí o processo de beijos. Tchau. 
+
+0:17:10.863 --> 0:17:11.543 
+João Silva 
+Uma pergunta, Pedro. 
+
+0:17:13.743 --> 0:17:31.423 
+João Silva 
+Olha, por exemplo, a gente já tem aquela lista lá, 2 165 Guedes e neles tem as as descrições, seria possível usar esse documento como base de conhecimento para ela, por exemplo, vamos supor que o consultor não saiba que tem outro módulo que está vendo algo bem semelhante do que foi discutido. 
+
+0:17:25.213 --> 0:17:25.383 
+Pedro Souza 
+O. 
+
+0:17:31.873 --> 0:17:32.853 
+João Silva 
+E ela possa atrelar. 
+
+0:17:32.153 --> 0:17:32.303 
+Pedro Souza 
+Oi. 
+
+0:17:33.613 --> 0:17:39.703 
+João Silva 
+Olha, ele não sabia que tinha esse gap, mas eu sei porque eu tenho a base, porque por isso pode acontecer, não é? 
+
+0:17:34.243 --> 0:17:34.953 
+Pedro Souza 
+Um. 
+
+0:17:38.883 --> 0:17:43.773 
+Pedro Souza 
+Sim, é, a gente pode fazer esse teste também, porque são 165. 
+
+0:17:43.783 --> 0:17:46.103 
+Pedro Souza 
+Gaps você falou, comentou, só isso? 
+
+0:17:44.813 --> 0:17:45.363 
+João Silva 
+Isso. 
+
+0:17:45.673 --> 0:17:50.493 
+João Silva 
+Aham, 165 conhecidos já, mas eles podem. 
+
+0:17:46.893 --> 0:17:49.693 
+Pedro Souza 
+Que 35 o reconhecido, né? 
+
+0:17:49.703 --> 0:17:51.253 
+Pedro Souza 
+Que pode surgir outros depois, né? 
+
+0:17:50.563 --> 0:17:53.843 
+João Silva 
+É, podem surgir em outros e eles podem também não ser mais guerra. 
+
+0:17:53.853 --> 0:17:58.453 
+João Silva 
+Fiz também isso daí o consultor vai ter que olhar No No, no detalhe, não é? 
+
+0:17:55.213 --> 0:17:59.273 
+Pedro Souza 
+Um é sim, é, e a pessoa tem que filtrar, né? Sim. 
+
+0:17:59.103 --> 0:18:1.443 
+João Silva 
+Mas seria mais para uma base de conhecimento dela. 
+
+0:18:1.453 --> 0:18:2.483 
+João Silva 
+Olha previamente. 
+
+0:18:1.573 --> 0:18:4.63 
+Pedro Souza 
+OE lá já está dividido por módulo, né também? 
+
+0:18:5.13 --> 0:18:6.533 
+João Silva 
+Também vai jantar por moro? 
+
+0:18:5.163 --> 0:18:8.313 
+Pedro Souza 
+Teoria a, tá na beleza. 
+
+0:18:6.543 --> 0:18:7.783 
+João Silva 
+Sim, vai, eu posso. 
+
+0:18:8.113 --> 0:18:10.883 
+João Silva 
+Posso mostrar para você depois, ali é esse daí. 
+
+0:18:10.363 --> 0:18:10.583 
+Pedro Souza 
+Né? 
+
+0:18:10.893 --> 0:18:17.203 
+João Silva 
+Eu acho que foi o arquiteto que quando fez lá venda, fez um estudo preliminar e ele já elencou aqueles ali. 
+
+0:18:14.113 --> 0:18:18.203 
+Pedro Souza 
+Hã, rã, quem fez o levantamento ali? Aham. 
+
+0:18:17.263 --> 0:18:25.503 
+João Silva 
+Sim, daí Oo detalhe, o consultor que vai decidir realmente se vai ser daquele jeito, até com aquele tipo de de desenvolvimento. 
+
+0:18:20.893 --> 0:18:21.3 
+Pedro Souza 
+O. 
+
+0:18:23.923 --> 0:18:24.353 
+Pedro Souza 
+Aham. 
+
+0:18:25.513 --> 0:18:28.943 
+João Silva 
+Enfim, eu mostro ali depois para você, mas seria mais uma base para ela. 
+
+0:18:26.393 --> 0:18:28.623 
+Pedro Souza 
+Não entendi, tá tranquilo? 
+
+0:18:29.613 --> 0:18:33.633 
+Pedro Souza 
+É, poderia ser 11 insumo a mais é, deixa eu pensar. 
+
+0:18:31.483 --> 0:18:32.463 
+João Silva 
+Luiz umo isso. 
+
+0:18:35.543 --> 0:18:39.743 
+Pedro Souza 
+Tá, porque no caso isso é para, por exemplo, se quando ele manda vamos supor, né? 
+
+0:18:39.783 --> 0:18:41.963 
+Pedro Souza 
+Nesse exemplo que que eles ainda mandam essa planilha? 
+
+0:18:41.973 --> 0:18:47.893 
+Pedro Souza 
+Dessa forma, é caso, sei lá, ele não não encontrou, não inclui nessa planilha. 
+
+0:18:48.223 --> 0:18:50.893 
+Pedro Souza 
+É um gap, já amarrado com o requisito da gente. 
+
+0:18:51.23 --> 0:18:56.203 
+Pedro Souza 
+Ver se ela consegue encontrar nessa outra e também trazer pro documento caso ele não esteja nessa. 
+
+0:18:54.773 --> 0:19:2.993 
+João Silva 
+É, seria mais ou menos isso porque assim, ó, vamos supor que é ele não olhou é porque assim, quanto pode ter erros? 
+
+0:18:57.53 --> 0:18:57.483 
+Pedro Souza 
+Aham. 
+
+0:19:1.803 --> 0:19:3.593 
+Pedro Souza 
+Aham, tem muitos. 
+
+0:19:3.3 --> 0:19:11.763 
+João Silva 
+A planilha foi feita, não está num processo de vendas, está num processo, sei lá, de suprimentos, mas é bem o que eles comentaram ali na reunião. 
+
+0:19:3.603 --> 0:19:4.833 
+Pedro Souza 
+Ele também, hã? 
+
+0:19:9.533 --> 0:19:9.853 
+Pedro Souza 
+Oo. 
+
+0:19:11.993 --> 0:19:16.743 
+João Silva 
+Aí ela vai falar, olha esse daqui, realmente não estava no processo de vendas, mas algo similar. 
+
+0:19:14.593 --> 0:19:16.883 
+Pedro Souza 
+O um, mas achei isso aqui. 
+
+0:19:16.833 --> 0:19:24.173 
+João Silva 
+E isso tem lá no, No No processo de suprimentos, porque assim tem muitos desenvolvimentos que podem servir para a mesma solução, entendeu? 
+
+0:19:18.793 --> 0:19:21.983 
+Pedro Souza 
+A acredito quer que eu sempre falo assim? 
+
+0:19:25.143 --> 0:19:42.813 
+Pedro Souza 
+É o crédito que você vê pra fazer assim, e aí a gente tenta passar os parâmetros Pra Ela nesse sentido, essa instrução é tipo, Oh, entrar para o identifique também nessa planilha aqui ou nessa base de dados se há algum gap, é relacionado a algum processo discutido na reunião. 
+
+0:19:42.823 --> 0:19:50.413 
+Pedro Souza 
+A gente pra pensar em algum parâmetro, se na frente, mas aí a gente teria que fazer teste, né, pra ver se ela consegue, vai ter que testar certinho. 
+
+0:19:43.833 --> 0:19:44.143 
+João Silva 
+Aham. 
+
+0:19:48.73 --> 0:19:50.983 
+João Silva 
+Então, tem que testar mesmo, porque assim, o que a gente tá falando? 
+
+0:19:50.423 --> 0:19:51.803 
+Pedro Souza 
+Mas é onde eu andar um pouco. 
+
+0:19:50.993 --> 0:20:4.823 
+João Silva 
+Para os consultores, a gente fala para os consultores, olhem os processos que são pertinentes ao seu modo, mas olhe tudo também porque, porque pode estar, é classificado categorizado ali no processo errado, né? 
+
+0:19:58.833 --> 0:19:59.53 
+Pedro Souza 
+Sim. 
+
+0:20:4.683 --> 0:20:5.833 
+Pedro Souza 
+É sim, é verdade. 
+
+0:20:5.153 --> 0:20:5.823 
+João Silva 
+E daí? 
+
+0:20:5.833 --> 0:20:9.513 
+João Silva 
+Vai ficar Descoberto, então esse que é o ponto também que a gente tá tocando aqui. 
+
+0:20:10.183 --> 0:20:13.593 
+Pedro Souza 
+Isso pode ser um teste que a gente pode fazer aí com você. 
+
+0:20:13.603 --> 0:20:23.573 
+Pedro Souza 
+Dias que a gente vai ter AE aí 11 ponto, e aí, até aí a dúvida minha também para gente pensar, porque tem a questão do dos requisitos que são os cross, né? 
+
+0:20:23.633 --> 0:20:35.13 
+Pedro Souza 
+Por exemplo, há vamos supor que esse exemplo tipo s 2130 ele é de vendas, mas pode ser que esse mesmo requisito a que ele seja para FE também não sei, só se pondo, né? 
+
+0:20:30.463 --> 0:20:36.113 
+João Silva 
+Sim, No No sim, hora acontecer. 
+
+0:20:35.803 --> 0:20:39.833 
+Pedro Souza 
+É ao meu aí no meu pensamento. 
+
+0:20:39.793 --> 0:20:42.283 
+João Silva 
+Apertar esse não segue você, tchau. 
+
+0:20:39.843 --> 0:20:47.93 
+Pedro Souza 
+Não sei se isso faria sentido, já que OBPD de FIOBPD é De STF. 
+
+0:20:45.863 --> 0:20:51.213 
+João Silva 
+Agenda da tarde, eu, a cara dela, eu falaria Da para ela tenho. 
+
+0:20:47.103 --> 0:20:52.113 
+Pedro Souza 
+Eles vão sair documentos à parte, não é tipo por aí, por enquanto a gente está fazendo, por exemplo, a depender de vento. 
+
+0:20:52.123 --> 0:20:56.423 
+Pedro Souza 
+São vpd de ventos, beleza fechado, que vai ter um outro bebê d de outra coisa. 
+
+0:20:55.163 --> 0:20:57.233 
+João Silva 
+Aí, agora ela confirmou que foi pago 2 vezes. 
+
+0:20:56.433 --> 0:21:0.713 
+Pedro Souza 
+Então, por enquanto, a ideia que a gente estava fazendo era fazer um bbd para cada processo mesmo. 
+
+0:20:57.243 --> 0:20:58.793 
+João Silva 
+Beijo, tudo bem? 
+
+0:21:1.43 --> 0:21:5.173 
+Pedro Souza 
+Não era ter um bebê d que já integrava tudo em uma coisa só. 
+
+0:21:1.633 --> 0:21:2.753 
+João Silva 
+Ela só é colado. 
+
+0:21:5.183 --> 0:21:9.533 
+Pedro Souza 
+Era um para cada, justamente por conta dessa forma, o que a gente está pegando as informações, né? 
+
+0:21:9.543 --> 0:21:11.673 
+Pedro Souza 
+Então, aqui está vendo só vindo, está vindo o sal de vendas. 
+
+0:21:12.463 --> 0:21:16.73 
+Pedro Souza 
+Se a gente for fazer algum de contas a pagar, vai vim só o de contas a pagar. 
+
+0:21:16.433 --> 0:21:26.373 
+Pedro Souza 
+Mas supondo que esse requisito seja cross, um de contas a pagar, Eu Acredito que ele só apareceria tanto aqui nessa planilha pra fazer de vendas, mas também apareceria na outra de contas a pagar. 
+
+0:21:20.973 --> 0:21:21.833 
+João Silva 
+Você pode falar. 
+
+0:21:26.383 --> 0:21:27.233 
+Pedro Souza 
+Eu acho que isso não é. 
+
+0:21:26.463 --> 0:21:29.413 
+João Silva 
+Ei aí, gerando uma duplicidade, né? 
+
+0:21:29.923 --> 0:21:31.393 
+Pedro Souza 
+É, eu acho que não. 
+
+0:21:29.983 --> 0:21:30.553 
+João Silva 
+Pode acontecer. 
+
+0:21:31.433 --> 0:21:36.313 
+Pedro Souza 
+E aí eu acho que não seria um problema para pensando nessa loja que a gente está trabalhando atualmente, né? 
+
+0:21:36.323 --> 0:21:48.53 
+Pedro Souza 
+Porque, por exemplo, para fazer um BPD de vendas, aí ele colocou aqui esse requisito e aí ela vai jogar pra dentro do documento se esse mesmo requisito 2130 estiver no De contas a pagar, ela vai fazer um outro documento que ela vai fazer, sabe? 
+
+0:21:48.63 --> 0:21:48.823 
+Pedro Souza 
+Eu acho que ela não. 
+
+0:21:49.363 --> 0:21:52.143 
+Pedro Souza 
+Não vai conflitar as informações, é nesse sentido. 
+
+0:21:51.623 --> 0:21:52.303 
+João Silva 
+E de noite. 
+
+0:21:52.153 --> 0:21:57.203 
+Pedro Souza 
+Não sei se se eu fui claro, porque, por exemplo, ela pode aparecer nessa planilha, mas pode aparecer em outra também. 
+
+0:21:54.913 --> 0:21:55.93 
+João Silva 
+Não. 
+
+0:21:57.213 --> 0:22:1.993 
+Pedro Souza 
+Eu acho que não tem problema se a pessoa só definir a beleza que sdd e lá outro. 
+
+0:22:2.3 --> 0:22:5.753 
+Pedro Souza 
+Outro consultor falando, não, mas aqui tem f também que a gente vão ser documentos separados, né? 
+
+0:22:5.753 --> 0:22:11.233 
+Pedro Souza 
+Mesmo que seja um requisito cross, eles vão estar em documentos separados ou imagina aí eu acho que. 
+
+0:22:6.233 --> 0:22:7.273 
+João Silva 
+Eu tenho preguiça. 
+
+0:22:7.543 --> 0:22:11.383 
+João Silva 
+Você, a turhan, não isso. 
+
+0:22:11.393 --> 0:22:21.413 
+João Silva 
+Isso não é um problema, o problema, vamos supor, assim é que um consultor é pega um requisito que também é cross em outro e ele gera e gera um gap. 
+
+0:22:12.943 --> 0:22:14.723 
+Pedro Souza 
+Aham, tá? 
+
+0:22:18.223 --> 0:22:20.503 
+Pedro Souza 
+Aham, aham. 
+
+0:22:22.243 --> 0:22:32.233 
+João Silva 
+Aí, por exemplo, vai vai gerar um gap lá pro pro, pro SD, aí o cara lá de De f também gera um gap e aí está gerando 2 gap para o mesmo assunto. 
+
+0:22:22.723 --> 0:22:23.203 
+Pedro Souza 
+Um. 
+
+0:22:25.363 --> 0:22:27.543 
+Pedro Souza 
+Tá? Aham. 
+
+0:22:31.163 --> 0:22:33.383 
+Pedro Souza 
+Um são 2 Guedes para o mesma coisa. 
+
+0:22:33.813 --> 0:22:34.293 
+João Silva 
+Isso. 
+
+0:22:34.303 --> 0:22:36.43 
+João Silva 
+Isso acontece, está, isso acontece. 
+
+0:22:35.993 --> 0:22:36.153 
+Pedro Souza 
+O. 
+
+0:22:36.993 --> 0:22:38.853 
+João Silva 
+E aí, o que que tem que fazer depois? 
+
+0:22:39.13 --> 0:22:43.53 
+João Silva 
+Tem um momento do aqui, na metodologia do saber direito, que é o gap killer. 
+
+0:22:43.423 --> 0:22:46.853 
+João Silva 
+Aí você vai consolidar esses 3 gaps e um gap. 
+
+0:22:43.913 --> 0:22:46.303 
+Pedro Souza 
+Um é um bom nome. 
+
+0:22:46.863 --> 0:22:48.923 
+João Silva 
+Só aham, é até legal o nome. 
+
+0:22:49.163 --> 0:22:50.813 
+Pedro Souza 
+Eu sei matar Dante, que elas. 
+
+0:22:50.943 --> 0:22:58.603 
+João Silva 
+Matador de Guedes é isso aí, aí aí nesse ponto aí a aí a não vai conseguir, porque assim ela não vai pegar. 
+
+0:22:52.563 --> 0:22:54.53 
+Pedro Souza 
+Foi demais, tá? Entendi. 
+
+0:22:58.613 --> 0:23:3.303 
+João Silva 
+EE está com, porque assim ela tá fazendo sol de vendas. 
+
+0:22:59.703 --> 0:23:0.53 
+Pedro Souza 
+Hã? 
+
+0:23:0.123 --> 0:23:2.163 
+Pedro Souza 
+Porque ela tá fazendo um para cada, né? 
+
+0:23:3.313 --> 0:23:9.943 
+João Silva 
+Ela não está olhando o que ela já construiu lá De fe, que ela já sabe que tem um gap lá, porque aí a gente IA começar a misturar muita coisa, né? 
+
+0:23:3.543 --> 0:23:10.763 
+Pedro Souza 
+É isso tudo em 6 Santo exato que essa é exato. 
+
+0:23:10.773 --> 0:23:19.843 
+Pedro Souza 
+E aí a gente fica meio é pra pelo menos para esse momento atual, com a ferramenta que a gente tem realmente não tem como, porque a ideia é acelerar um BPD específico, né? 
+
+0:23:19.853 --> 0:23:21.113 
+Pedro Souza 
+Então, assim a gente está. 
+
+0:23:21.153 --> 0:23:29.223 
+Pedro Souza 
+Ela está se baseando nas informações que estão sendo encaminhadas Pra Ela, então depende um pouco desse tratamento que o pessoal, pelo menos nesse primeiro momento, também está fazendo, né? 
+
+0:23:24.383 --> 0:23:24.623 
+João Silva 
+Um. 
+
+0:23:29.233 --> 0:23:39.763 
+Pedro Souza 
+Então, se aqui por acaso eles colocarem, é encontrado pelo CCS the gap 01, que faz a vender danone, isso aí não vender. 
+
+0:23:41.363 --> 0:23:43.933 
+Pedro Souza 
+Tive um, não sei, não sei. 
+
+0:23:42.983 --> 0:23:44.673 
+João Silva 
+Aham. 
+
+0:23:44.683 --> 0:23:49.963 
+Pedro Souza 
+E aí ela vai pegar isso, vai colocar no BBB de vendas EE para frente. 
+
+0:23:50.3 --> 0:23:59.553 
+Pedro Souza 
+E aí, se por acaso 2012 aparecer lá no FEEA que surgiu um gap diferente, que seria, sei lá vender, hã, sei lá, só o barril vazio. 
+
+0:24:0.123 --> 0:24:2.733 
+João Silva 
+Como assim, não? 
+
+0:24:0.423 --> 0:24:1.413 
+Pedro Souza 
+Eu sei que não tem nada a ver, né? 
+
+0:24:1.423 --> 0:24:3.173 
+Pedro Souza 
+Mas, enfim, faturar o Brasil. 
+
+0:24:3.63 --> 0:24:7.433 
+João Silva 
+Isso mesmo, mas a ideia depois vai ter um estudo à parte, não é? É. 
+
+0:24:3.703 --> 0:24:6.233 
+Pedro Souza 
+Mas vai aparecer desse jeito. 
+
+0:24:6.243 --> 0:24:10.743 
+Pedro Souza 
+E aí é, e aí eu acho que vai ter que fazer, vai ter que ser isso, tipo a. 
+
+0:24:11.823 --> 0:24:21.203 
+Pedro Souza 
+A no meu temos requisitos, saber os requisitos cross saber tá, tem um bebê dede de vendas que tenham 10012. 
+
+0:24:12.253 --> 0:24:14.723 
+João Silva 
+Às vezes, mente. 
+
+0:24:16.813 --> 0:24:20.133 
+João Silva 
+Sabe, aqui ela não pagou quanto que ela vai pagar muito. 
+
+0:24:21.213 --> 0:24:24.613 
+Pedro Souza 
+Tem um bebê, dede de contas, a pagar, que tenham 10012. 
+
+0:24:23.623 --> 0:24:27.363 
+João Silva 
+Eu vou, e a primeira vez que ela tem que pagar. 
+
+0:24:24.623 --> 0:24:42.153 
+Pedro Souza 
+Vamos ver só se, tipo, se os Guedes estão batendo, se não estão alguma coisa assim, eu acho que talvez seja mais um um trabalho também de realmente de confirmação entre eles para ver se isso tudo está alinhado do que tipo lá na parte de criar o documento. 
+
+0:24:33.753 --> 0:24:35.893 
+João Silva 
+Clique assim. 
+
+0:24:36.143 --> 0:24:37.3 
+João Silva 
+Olha, eu vi seguida. 
+
+0:24:42.163 --> 0:24:48.753 
+Pedro Souza 
+Não sei, pelo menos se a percepção que eu estou tendo agora, sabe, mas eu não sei se é exatamente isso assim, mas se. 
+
+0:24:44.33 --> 0:24:46.233 
+João Silva 
+O senhora é? 
+
+0:24:48.123 --> 0:24:48.393 
+João Silva 
+Quando. 
+
+0:24:48.403 --> 0:24:57.893 
+João Silva 
+Quando o consultor mesmo que escreve o que acontece é geralmente, a gente fala pelos combinarem para ter um bebê, como se fosse Oo dono do gap. 
+
+0:24:58.3 --> 0:25:5.233 
+João Silva 
+Então o dono do gap, eu f mas OF ó, fica o gap aqui com você, mas lá No No BP dele, descreve. 
+
+0:24:58.383 --> 0:25:0.863 
+Pedro Souza 
+Aham, esse aqui é seu, né? 
+
+0:25:1.913 --> 0:25:2.353 
+Pedro Souza 
+Aham. 
+
+0:25:5.243 --> 0:25:10.993 
+João Silva 
+Ó, esse é um gap de fe que permeia pelos módulos taus e que será atendido de tal forma. 
+
+0:25:11.323 --> 0:25:17.103 
+João Silva 
+E lá no dsd, por exemplo, ele falou assim, ó, existe um gap lá em FE com o mesmo código, sabe? 
+
+0:25:11.403 --> 0:25:11.683 
+Pedro Souza 
+Oo. 
+
+0:25:12.123 --> 0:25:13.593 
+Pedro Souza 
+É, não um. 
+
+0:25:16.223 --> 0:25:26.883 
+Pedro Souza 
+11 ace, isso é sim, é porque, considerando que eles já fizeram essa identificação a esse gap é de lá, mas tá aqui também, é? 
+
+0:25:18.183 --> 0:25:20.13 
+João Silva 
+Mas isso é quando a pessoa escreve, né? 
+
+0:25:20.23 --> 0:25:21.123 
+João Silva 
+Mas se a gente pode. 
+
+0:25:26.893 --> 0:25:32.293 
+Pedro Souza 
+É, eu acho que colocando aqui, pelo menos na descrição, porque ela vai pegar essa descrição e jogar para dentro do documento, né? 
+
+0:25:32.303 --> 0:25:32.953 
+Pedro Souza 
+Por exemplo. 
+
+0:25:33.93 --> 0:25:34.253 
+João Silva 
+Aham. 
+
+0:25:33.363 --> 0:25:41.43 
+Pedro Souza 
+Então, se a gente tivesse um gap aqui, ele IA aparecer a descrição dele aqui, então se tivesse informação, ela vai trazer para cá, por exemplo, é. 
+
+0:25:41.93 --> 0:25:45.253 
+Pedro Souza 
+E aí eu acho que pelo menos sai no documento, tipo à beleza, aí você que é pra que é isso? 
+
+0:25:45.263 --> 0:25:47.803 
+Pedro Souza 
+Isso, isso, mas também está relacionado com o módulo tal e tal e tal. 
+
+0:25:47.183 --> 0:25:47.373 
+João Silva 
+Bom. 
+
+0:25:48.293 --> 0:25:49.123 
+Pedro Souza 
+Mas aí é isso, né? 
+
+0:25:49.133 --> 0:25:56.263 
+Pedro Souza 
+Isso teriam que a gente teria que ter essa informação porque realmente ela vai fazer essas informações específicas de requisito de gap e tudo mais. 
+
+0:25:56.493 --> 0:26:1.23 
+Pedro Souza 
+É nesse momento, ela realmente está fazendo com base no que eles estão encaminhando para a gente nessa. 
+
+0:26:1.193 --> 0:26:2.563 
+João Silva 
+Aqui já existe ali, né? 
+
+0:26:1.193 --> 0:26:3.393 
+Pedro Souza 
+Nessa primeira é exato. 
+
+0:26:2.873 --> 0:26:4.253 
+João Silva 
+Não é duras, oticamente. 
+
+0:26:3.403 --> 0:26:11.583 
+Pedro Souza 
+Então, se ele escrever aqui, que é que tem relação tudo mais na hora que ela for desenvolver esse tópico, ela vai conseguir também colocar aqui. 
+
+0:26:7.183 --> 0:26:17.423 
+João Silva 
+20 e outra, o consultor vai ter que fazer, vai ter que fazer um pente fino no depois. 
+
+0:26:11.593 --> 0:26:13.763 
+Pedro Souza 
+Essa informação vem para cá, e aí? 
+
+0:26:16.863 --> 0:26:21.383 
+Pedro Souza 
+É sim, exato, exato, porque é exato que a ideia realmente é. 
+
+0:26:17.433 --> 0:26:18.733 
+João Silva 
+É, então ele vai. 
+
+0:26:21.393 --> 0:26:23.703 
+Pedro Souza 
+É dar uma acelerada aqui na construção do documento, né? 
+
+0:26:23.713 --> 0:26:27.423 
+Pedro Souza 
+Porque tem muita coisinha aqui que é que é mais básico, então é exato. 
+
+0:26:24.403 --> 0:26:26.653 
+João Silva 
+Não fica praticamente pronto, não é? 
+
+0:26:27.433 --> 0:26:33.163 
+Pedro Souza 
+Aí ele tem que olhar e falar, não, beleza, vamos ver porque a gente não vai conseguir entregar 100% dos 100%, sabe? 
+
+0:26:33.233 --> 0:26:39.243 
+Pedro Souza 
+Nesse momento, a gente não consegue fazer isso, então realmente tem esses pontos que a gente vai ter que dar uma. 
+
+0:26:35.543 --> 0:26:35.643 
+João Silva 
+O. 
+
+0:26:39.743 --> 0:26:46.3 
+Pedro Souza 
+Eles vão ter que realmente dá uma olhada e se AF está junto com sdds, pegar o documento e falar não beleza no meu saiu isso. 
+
+0:26:46.13 --> 0:26:50.883 
+Pedro Souza 
+Não sei como é que tá aí, então uma malinha da eu acho que não vai ter como escapar muito disso. 
+
+0:26:48.833 --> 0:26:49.33 
+João Silva 
+Tá? 
+
+0:26:49.243 --> 0:26:54.833 
+João Silva 
+Meu próprio mapeamento é, e o próprio mapeamento que o pessoal está fazendo clube aí é ele. 
+
+0:26:54.843 --> 0:26:59.233 
+João Silva 
+Já ajuda a identificar quais são os cross, então, tipo, a gente está deixando uma gestão à vista. 
+
+0:26:57.573 --> 0:26:58.73 
+Pedro Souza 
+O run? 
+
+0:26:59.243 --> 0:27:2.733 
+João Silva 
+Quais olha realmente, esses aqui é verifica. 
+
+0:27:0.363 --> 0:27:0.863 
+Pedro Souza 
+É sim. 
+
+0:27:2.743 --> 0:27:7.93 
+João Silva 
+Esses 10 requisitos que a gente sabe que são croce, como que ficou lá no BPD? 
+
+0:27:6.403 --> 0:27:9.933 
+Pedro Souza 
+Aham o nisso, né? 
+
+0:27:7.103 --> 0:27:9.203 
+João Silva 
+Pronto, fica até mais fácil, né? 
+
+0:27:9.983 --> 0:27:17.143 
+Pedro Souza 
+Eu vou ver se eu encontro que eu te conto as apagar, que Eu Acredito que ele tem gap, mas isso aqui é uma versão antiga da então. 
+
+0:27:16.393 --> 0:27:17.283 
+João Silva 
+Tá, não preocupe, eu. 
+
+0:27:17.183 --> 0:27:20.73 
+Pedro Souza 
+É um teste antigo que a gente fez só pra te mostrar aquela tabela lá de baixo. 
+
+0:27:22.163 --> 0:27:26.503 
+Pedro Souza 
+É isso aqui, é isso, aqui é um modelo bem antiga, mas vamos ver. 
+
+0:27:26.563 --> 0:27:29.333 
+Pedro Souza 
+É tá aí aí deve pegar mesma coisa. 
+
+0:27:29.343 --> 0:27:43.23 
+Pedro Souza 
+Aqui está você que você pensa de contas a pagar, pelo menos que tinha na família e tudo lá nisso, e aí lá em baixo, deixa eu ver se se tá certinho o que eu acho que isso é que vai ter aí a gente vai ter gap que não vê. 
+
+0:27:34.383 --> 0:27:34.853 
+João Silva 
+O run? 
+
+0:27:46.173 --> 0:27:47.13 
+Pedro Souza 
+Ações, não. 
+
+0:27:50.733 --> 0:27:51.863 
+Pedro Souza 
+Nossas, os aplicativos. 
+
+0:27:54.443 --> 0:27:54.933 
+Pedro Souza 
+Aqui, ó. 
+
+0:27:56.103 --> 0:27:57.813 
+Pedro Souza 
+Aí com Guedes, por exemplo. 
+
+0:27:57.823 --> 0:28:0.73 
+Pedro Souza 
+Isso aqui é um exemplo de como seria a saída, né? 
+
+0:28:0.113 --> 0:28:7.273 
+Pedro Souza 
+Mesmo tendo No No modelo antigo, mas é, seria a mesma coisa envolvimento desenvolvidos aí na planilha que a gente recebeu lá já estava mapeada. 
+
+0:28:0.523 --> 0:28:1.693 
+João Silva 
+Aham. 
+
+0:28:7.283 --> 0:28:8.833 
+Pedro Souza 
+Então, o requisito 1026. 
+
+0:28:8.843 --> 0:28:12.903 
+Pedro Souza 
+Ele tinha o gap, if e um, que é referente a isso aqui. 
+
+0:28:12.943 --> 0:28:16.273 
+Pedro Souza 
+Aí ela traz somente pá, pá, beleza, eu requisitar o 26. 
+
+0:28:16.523 --> 0:28:17.523 
+Pedro Souza 
+O gap é isso aqui. 
+
+0:28:17.683 --> 0:28:18.593 
+Pedro Souza 
+O código do gap, né? 
+
+0:28:18.923 --> 0:28:19.503 
+João Silva 
+Hã, rã. 
+
+0:28:18.933 --> 0:28:23.603 
+Pedro Souza 
+E a questão do gap é essa, então, para esse exemplo aqui a gente tem nesses 3 gaps. 
+
+0:28:23.643 --> 0:28:25.203 
+Pedro Souza 
+Aí ela traz aqui a beleza. 
+
+0:28:25.213 --> 0:28:26.313 
+Pedro Souza 
+Esse aqui é desse ímpeto. 
+
+0:28:26.363 --> 0:28:32.303 
+Pedro Souza 
+E viveu esse Da bcp, Ivo beleza, discrição é essa aí, ela monta essa. 
+
+0:28:32.343 --> 0:28:33.663 
+Pedro Souza 
+Essa tabelinha, pelo menos relacionada. 
+
+0:28:33.673 --> 0:28:34.143 
+Pedro Souza 
+Gap, né? 
+
+0:28:34.883 --> 0:28:35.333 
+João Silva 
+Beleza. 
+
+0:28:34.983 --> 0:28:37.763 
+Pedro Souza 
+A, mas é aquilo, tem que estar na. 
+
+0:28:38.113 --> 0:28:43.463 
+Pedro Souza 
+Isso tem que estar na planilha que a gente recebe, porque se não tiver, ela não consegue ir atrás disso em outro lugar, sabe? 
+
+0:28:44.303 --> 0:28:48.573 
+Pedro Souza 
+Somente é com base no que a gente está recebendo nesse momento. 
+
+0:28:48.63 --> 0:28:51.533 
+João Silva 
+Deixa eu, deixa eu aproveitar aqui e já. 
+
+0:28:51.573 --> 0:28:54.583 
+João Silva 
+E te mostrar também como que está aquela outra lá? 
+
+0:28:54.593 --> 0:28:55.643 
+João Silva 
+2 165. 
+
+0:28:55.653 --> 0:28:56.313 
+João Silva 
+Posso compartilhar? 
+
+0:28:56.963 --> 0:28:58.83 
+Pedro Souza 
+Pode participar, pode dormir. 
+
+0:28:59.233 --> 0:28:59.923 
+João Silva 
+Então, aqui. 
+
+0:29:1.53 --> 0:29:10.733 
+João Silva 
+Minimizar que está no Fernando a situar 12 vezes aqui. 
+
+0:29:12.693 --> 0:29:14.333 
+João Silva 
+Assim, para, para todos nós. 
+
+0:29:14.343 --> 0:29:17.713 
+João Silva 
+Coisa que chama a lista da gente existe, então essas 2 são as oficiais? Tá? 
+
+0:29:18.433 --> 0:29:18.563 
+Pedro Souza 
+Tá? 
+
+0:29:18.683 --> 0:29:20.53 
+João Silva 
+Pois é, com o pessoal tá mexendo aqui. 
+
+0:29:20.63 --> 0:29:21.803 
+João Silva 
+Mas não era para mexer. 
+
+0:29:21.563 --> 0:29:22.883 
+Pedro Souza 
+Um, tá bom. 
+
+0:29:23.323 --> 0:29:24.393 
+João Silva 
+É então aqui. 
+
+0:29:24.403 --> 0:29:25.13 
+João Silva 
+Como que está? 
+
+0:29:25.523 --> 0:29:30.63 
+João Silva 
+Está White, deixa eu ver se não tem nada oculto, que às vezes o pessoal mexe. 
+
+0:29:30.773 --> 0:29:31.683 
+Pedro Souza 
+OE outra. 
+
+0:29:33.963 --> 0:29:38.643 
+João Silva 
+Tirar é natural do soldado, já então, em resumo, o que que seria? 
+
+0:29:38.653 --> 0:29:41.623 
+João Silva 
+Seria uai De a descrição do gap aqui, ó. 
+
+0:29:41.633 --> 0:29:43.353 
+João Silva 
+O mesmo código código do requisito. 
+
+0:29:43.993 --> 0:29:45.373 
+Pedro Souza 
+Boa, RAM, isso. 
+
+0:29:44.533 --> 0:29:47.393 
+João Silva 
+E aqui tem algumas observações, então nós temos o processo. 
+
+0:29:47.983 --> 0:29:49.93 
+João Silva 
+Qual que ele se encaixa? 
+
+0:29:48.13 --> 0:29:49.123 
+Pedro Souza 
+Aham. 
+
+0:29:49.103 --> 0:29:51.813 
+João Silva 
+Subprocesso aí, o que que tem? 
+
+0:29:51.823 --> 0:29:57.853 
+João Silva 
+Temos os módulos, o tipo do gap, se é, em resumo, integração, relatório, formulário. 
+
+0:29:53.623 --> 0:29:54.133 
+Pedro Souza 
+O run? 
+
+0:29:56.613 --> 0:29:57.133 
+Pedro Souza 
+Um. 
+
+0:29:57.863 --> 0:30:10.293 
+João Silva 
+Por exemplo, tenho já um código atrelado para ele, então e aqui tem algumas outras coisas aqui que o pessoal colocou, mas para como as pessoas logo ali, mas a princípio seria isso aqui. 
+
+0:29:59.23 --> 0:29:59.173 
+Pedro Souza 
+O. 
+
+0:30:1.843 --> 0:30:2.593 
+Pedro Souza 
+O tá bom? 
+
+0:30:10.303 --> 0:30:13.213 
+João Silva 
+Então, eu já tenho aqui, deixa eu ver se bater minha conta. 
+
+0:30:14.833 --> 0:30:15.423 
+João Silva 
+Hã? 
+
+0:30:15.433 --> 0:30:26.273 
+João Silva 
+É, deve ter algum filtro aqui, mas aqui teria os 165 que eu comentei com você e já tem até 11 avaliação aqui de quanto seria crítico para o negócio. 
+
+0:30:26.643 --> 0:30:27.413 
+João Silva 
+Esse. 
+
+0:30:27.133 --> 0:30:27.273 
+Pedro Souza 
+O. 
+
+0:30:27.883 --> 0:30:29.433 
+João Silva 
+Esse desenvolvimento não é? 
+
+0:30:30.353 --> 0:30:32.43 
+João Silva 
+E aí, no futuro, o que que a gente pode fazer? 
+
+0:30:32.53 --> 0:30:37.883 
+João Silva 
+A gente pode sentar e conversar com o time de desenvolvimento e adicionar uma coluna aqui, por exemplo. 
+
+0:30:37.923 --> 0:30:40.653 
+João Silva 
+E avaliar a complexidade desse desenvolvimento. 
+
+0:30:41.263 --> 0:30:43.463 
+João Silva 
+Quanto que eu que eu, né? 
+
+0:30:43.473 --> 0:30:52.443 
+João Silva 
+Quantificou em horas para fazer para FS, racismo e a gente quantificar em horas pra gente ver se a gente está dentro daquelas 8000, se está tendo alguma divergência. 
+
+0:30:45.673 --> 0:30:47.793 
+Pedro Souza 
+Assim, um. 
+
+0:30:51.693 --> 0:30:52.313 
+Pedro Souza 
+Hã, rã. 
+
+0:30:52.453 --> 0:30:57.83 
+João Silva 
+Enfim, é tudo os estudos que a gente pode fazer para para gerar mais valor, né? 
+
+0:30:56.123 --> 0:31:0.643 
+Pedro Souza 
+Tá legal o rum assim, com certeza, acho que o cara é bom, isso sim. 
+
+0:30:59.43 --> 0:31:20.393 
+João Silva 
+Mas aqui ó, e aqui a gente tem a mesma descrição que está aqui no requisito, então, teoricamente, se ele olhar esse daqui, tem que bater lá e se ele pegar alguma coisa relacionada a descrição lá na transcrição que remete algum gap aqui e já posso falar, olha, estava no financeiro, mas no fiscal também tem alguma coisa de ICMS. 
+
+0:31:5.63 --> 0:31:5.843 
+Pedro Souza 
+Aham, sim. 
+
+0:31:16.13 --> 0:31:17.343 
+Pedro Souza 
+Tchau, beijo. Aham. 
+
+0:31:21.523 --> 0:31:28.553 
+Pedro Souza 
+O run a parcela por sempre é uma opção, porque aí chovendo, a gente pé tem. 
+
+0:31:21.643 --> 0:31:25.223 
+João Silva 
+Ele pode tentar fazer essa essa leitura, entendeu? 
+
+0:31:28.563 --> 0:31:33.663 
+Pedro Souza 
+Elas, essa planilha, por enquanto ela é fixa até enfim descobrirem novos ou tirarem alguns, né? 
+
+0:31:33.793 --> 0:31:34.983 
+João Silva 
+Então essa daqui não muda. 
+
+0:31:34.993 --> 0:31:38.563 
+João Silva 
+Essa é o 165, porque o histórico como começou o projeto? 
+
+0:31:35.403 --> 0:31:36.233 
+Pedro Souza 
+Essa não muda, né? 
+
+0:31:36.903 --> 0:31:40.403 
+Pedro Souza 
+A tá assim não entendi, entendi. 
+
+0:31:38.933 --> 0:31:51.773 
+João Silva 
+O que pode acontecer é matar, porque daí Oo, vamos dizer que na versão agora do Da, se for Anna, essa criação aqui já está E standard não precisa fazer um gap pra pra fazer esse tipo de desenvolvimento. 
+
+0:31:41.603 --> 0:31:43.193 
+Pedro Souza 
+Aham. 
+
+0:31:50.513 --> 0:31:50.833 
+Pedro Souza 
+Oo. 
+
+0:31:51.783 --> 0:31:53.263 
+Pedro Souza 
+Aí dá uma eliminada, o. 
+
+0:31:51.783 --> 0:31:56.403 
+João Silva 
+A esse cara morre que é o gap que lá entendeu, é o momento. 
+
+0:31:54.873 --> 0:31:57.903 
+Pedro Souza 
+Entendi o RAM e aí sim, no. 
+
+0:31:57.943 --> 0:32:9.903 
+Pedro Souza 
+Por exemplo, eles fazem workshop, IA depois de fazer, né, realizarem ali todas as as primeiras reuniões, na hora que chega na hora de fazer o BBB é esses gaps ainda podem entrar neles. 
+
+0:32:9.913 --> 0:32:13.63 
+Pedro Souza 
+Mas aí depois focar sua lição, modifiquem, tiram do bbd também, né? 
+
+0:32:13.73 --> 0:32:15.633 
+Pedro Souza 
+Caso elais aqui não vai ser mais chega lá e tira do documento. 
+
+0:32:15.643 --> 0:32:20.553 
+Pedro Souza 
+Não seria mais ou menos esse processo ou quando for fazer OBPD isso aí já vai estar feito, sabe? 
+
+0:32:16.963 --> 0:32:17.843 
+João Silva 
+Isso, isso RAM. 
+
+0:32:20.993 --> 0:32:32.783 
+João Silva 
+É porque assim, quando quando OA pessoa for apresentar workshop, ele vai falar o requisito não é aí ele vai discutir e vai realmente, e daí depois ele vai realmente olhar aqui. 
+
+0:32:25.523 --> 0:32:25.613 
+Pedro Souza 
+O. 
+
+0:32:27.183 --> 0:32:27.733 
+Pedro Souza 
+Um, tá? 
+
+0:32:30.253 --> 0:32:30.693 
+Pedro Souza 
+Aham. 
+
+0:32:32.793 --> 0:32:33.33 
+João Silva 
+Não. 
+
+0:32:33.73 --> 0:32:39.103 
+João Silva 
+E esse requisito aqui é realmente é um gap e realmente é 11. 
+
+0:32:34.63 --> 0:32:34.623 
+Pedro Souza 
+A tá? 
+
+0:32:37.243 --> 0:32:41.673 
+Pedro Souza 
+Aham, aham um tá? 
+
+0:32:39.113 --> 0:32:40.483 
+João Silva 
+Iasmin tá? 
+
+0:32:40.733 --> 0:32:42.743 
+João Silva 
+Então faz sentido, tá certo, beleza? 
+
+0:32:42.753 --> 0:32:47.423 
+João Silva 
+Ok, então Dos Santos 2, 65 um, tá ok, é gap. 
+
+0:32:47.433 --> 0:32:50.183 
+João Silva 
+É desse jeito que pode acontecer, por exemplo. 
+
+0:32:48.553 --> 0:32:48.643 
+Pedro Souza 
+O. 
+
+0:32:50.293 --> 0:32:50.843 
+João Silva 
+Tá vendo aqui, ó? 
+
+0:32:50.853 --> 0:32:51.873 
+João Silva 
+É o mesmo requisito. 
+
+0:32:52.683 --> 0:32:53.133 
+Pedro Souza 
+Aham. 
+
+0:32:53.683 --> 0:32:57.433 
+João Silva 
+Mas o que acontece aqui são desenvolvimentos diferentes. 
+
+0:32:58.193 --> 0:33:5.413 
+João Silva 
+Uma parte Erick flow tua parte relatório entendeu ao repórter, então porque ele pode falar não? 
+
+0:32:58.783 --> 0:32:59.403 
+Pedro Souza 
+A tá? 
+
+0:33:1.63 --> 0:33:3.373 
+Pedro Souza 
+Aham, tá? 
+
+0:33:5.803 --> 0:33:11.583 
+João Silva 
+OA partir do relatório eu consigo atender pelo standard hoje, mas a partir do Arc falou, não, realmente. 
+
+0:33:10.293 --> 0:33:10.693 
+Pedro Souza 
+O run? 
+
+0:33:11.593 --> 0:33:18.193 
+João Silva 
+Eu preciso de desenvolvimento, então isso daí tudo é uma análise que faz após se já começa agora, na verdade, né? 
+
+0:33:13.893 --> 0:33:14.13 
+Pedro Souza 
+O. 
+
+0:33:18.303 --> 0:33:26.113 
+João Silva 
+Mas você é com a conversa e com as discussões que são que ocorrem lá no workshop com o senhor vai ter mais propriedade para decidir. 
+
+0:33:26.123 --> 0:33:30.723 
+João Silva 
+Sabe como que vai ser o gap, e aí depois tem todo um trabalho, né? 
+
+0:33:27.3 --> 0:33:30.83 
+Pedro Souza 
+O entendi aí ele toma decisão depois. 
+
+0:33:30.733 --> 0:33:35.773 
+João Silva 
+Com com o time de desenvolvimento, com fábrica para para a gente chegar no gap real, que vai ser feito. 
+
+0:33:33.693 --> 0:33:47.593 
+Pedro Souza 
+O realmente desenvolver ele, depois entregar o que tem que entregar lá no final Dos caminhante, então já OE, isso aí é aquela história, tá? 
+
+0:33:39.903 --> 0:33:40.533 
+João Silva 
+Isso aí. 
+
+0:33:40.683 --> 0:33:43.853 
+João Silva 
+Aham, daí entra no cronograma e né? 
+
+0:33:44.93 --> 0:33:45.903 
+João Silva 
+E segue o jogo, seria isso? 
+
+0:33:46.703 --> 0:33:47.893 
+João Silva 
+Aham. 
+
+0:33:47.833 --> 0:33:52.63 
+Pedro Souza 
+Então tá, vamos tentar fechar então, Oo raciocínio. 
+
+0:33:53.223 --> 0:34:3.793 
+Pedro Souza 
+É por enquanto, então a gente está fazendo o bpt um por vez, não é um para cada processo, a gente está utilizando aquela planilha que os consultores estão preenchendo. 
+
+0:34:0.403 --> 0:34:0.943 
+João Silva 
+Beleza. 
+
+0:34:3.803 --> 0:34:11.363 
+Pedro Souza 
+Pra gente é, e eles que estão tendo que enviar essas informações, porque com base naquelas informações a ferramenta ela vai pegar, tá? 
+
+0:34:11.403 --> 0:34:12.13 
+João Silva 
+Uma vez, Kurth. 
+
+0:34:11.403 --> 0:34:12.233 
+Pedro Souza 
+Qual que é o módulo? 
+
+0:34:12.303 --> 0:34:15.313 
+Pedro Souza 
+SB qual que é o ppd que a gente está fazendo? 
+
+0:34:15.353 --> 0:34:17.863 
+Pedro Souza 
+É o te vendo e qual que é o processo? 
+
+0:34:17.873 --> 0:34:18.973 
+Pedro Souza 
+É esse, esse, esse aí. 
+
+0:34:18.983 --> 0:34:22.803 
+Pedro Souza 
+Com base nessas primeiras informações, ela vai buscar as outras coisas. 
+
+0:34:23.143 --> 0:34:24.763 
+Pedro Souza 
+É para ela poder gerar o documento. 
+
+0:34:24.773 --> 0:34:26.183 
+Pedro Souza 
+Então por enquanto, né? 
+
+0:34:26.193 --> 0:34:42.603 
+Pedro Souza 
+Até esse momento, a gente está fazendo um por vez é e aí a questão que o pessoal está querendo ver é justamente nesse nesse documento que ela está gerando já sair essas informações, por exemplo, que tem relação com o outro módulo, por exemplo, é tipo, já trazia algumas formações de de integração ou de país? 
+
+0:34:42.613 --> 0:34:44.863 
+Pedro Souza 
+E Guedes tá aqui, mas esse gap também está em outro. 
+
+0:34:45.313 --> 0:34:49.403 
+Pedro Souza 
+É meio que essa ideia que você, tipo, também percebeu que eles estão querendo De diferente. 
+
+0:34:49.413 --> 0:34:58.303 
+Pedro Souza 
+No documento, a tipo é, tem informação a mais sobre a aqui nesse de vendas tem esse gap, mas esse gap também está no De f. 
+
+0:34:58.553 --> 0:35:2.263 
+Pedro Souza 
+Vamos supor, é meio que essa, pelo que você percebeu também, né? 
+
+0:35:2.263 --> 0:35:5.163 
+Pedro Souza 
+Porque a gente está tentando aqui é montar a coisa. 
+
+0:35:2.563 --> 0:35:4.153 
+João Silva 
+É sim, isso mesmo. 
+
+0:35:5.173 --> 0:35:7.963 
+Pedro Souza 
+Seria essa ideia, tipo De nesse DVD que ela construiu? 
+
+0:35:7.973 --> 0:35:13.423 
+Pedro Souza 
+Nesse único também tem alguma informação indicando que isso tem relação com outro modo ou outro processo? 
+
+0:35:13.433 --> 0:35:14.603 
+Pedro Souza 
+É meio que essa ideia, né? 
+
+0:35:13.443 --> 0:35:15.483 
+João Silva 
+Outro processo é isso aí. 
+
+0:35:15.553 --> 0:35:17.143 
+Pedro Souza 
+Tá, entendi. 
+
+0:35:17.673 --> 0:35:24.603 
+Pedro Souza 
+É não assim, a primeira vista, eu acho que não parece ser tão tão diferente realmente do que a gente tá fazendo. 
+
+0:35:24.613 --> 0:35:27.223 
+Pedro Souza 
+Vai mudar um pouco, só o que a gente recebe de informação. 
+
+0:35:27.233 --> 0:35:28.613 
+Pedro Souza 
+Provavelmente quem cê tá falando? 
+
+0:35:28.623 --> 0:35:32.83 
+Pedro Souza 
+Nada têm essa planilha de gap que ela pode dar uma olhada e trazer também, né? 
+
+0:35:32.413 --> 0:35:44.833 
+Pedro Souza 
+Tipo a com base na descrição, se encontrar um gap na durante a reunião, tente entender, é sobre o que que ele é, busque aqui e ver se tem algum relacionado e traz na tabela, por exemplo, né? 
+
+0:35:32.763 --> 0:35:33.113 
+João Silva 
+Urro. 
+
+0:35:44.873 --> 0:35:47.943 
+Pedro Souza 
+Pra ver se ela fazer essa busca nessa planilha aí, por exemplo, né? 
+
+0:35:48.653 --> 0:35:53.283 
+Pedro Souza 
+Eu acho que é um que é uma que é 11. 
+
+0:35:53.293 --> 0:35:55.213 
+Pedro Souza 
+Exemplo de como a gente pode fazer nesse caos. 
+
+0:35:56.133 --> 0:36:1.463 
+Pedro Souza 
+E aí, além disso, tem esse ponto de que na planilha eles podem também já indicar isso, né? 
+
+0:36:1.503 --> 0:36:5.563 
+Pedro Souza 
+Tipo na descrição, por exemplo, é na descrição do requisito. 
+
+0:36:4.3 --> 0:36:5.283 
+João Silva 
+Uma observação, né? 
+
+0:36:5.293 --> 0:36:5.883 
+João Silva 
+Alguma coisa. 
+
+0:36:5.573 --> 0:36:9.243 
+Pedro Souza 
+É fazer alguma coisa de observação, coisa a gente pode abrir uma coluna nova. 
+
+0:36:9.253 --> 0:36:14.243 
+Pedro Souza 
+Acho que isso não é um problema, já que pelo menos, é só essa informação que que eles precisam a mais, né? 
+
+0:36:14.643 --> 0:36:15.973 
+João Silva 
+Aham. 
+
+0:36:14.693 --> 0:36:19.523 
+Pedro Souza 
+Porque assim se a gente fosse ter que criar um bbd totalmente é diferente. 
+
+0:36:19.953 --> 0:36:27.533 
+Pedro Souza 
+É 11 BPD que fala de SD, mas tem outro tópico que já está trazendo sobre OFIE fazendo decoração, aí seria algo mais complexo. 
+
+0:36:27.813 --> 0:36:30.553 
+João Silva 
+EE outra, ela pode ser perdida em fácil, né? 
+
+0:36:28.223 --> 0:36:35.293 
+Pedro Souza 
+De fato, para fazer, mas essa desato, e aí, tipo, a gente teria que usar uma outra lógica para montar um documento. 
+
+0:36:35.303 --> 0:36:41.693 
+Pedro Souza 
+A gente IA ter que refazer algumas coisas, mas se for só a questão realmente, tipo, hã, precisa de De precisa ter uma informação a mais aqui. 
+
+0:36:42.183 --> 0:36:52.693 
+Pedro Souza 
+Isso é bem mais tranquilo de fazer que aí a gente realmente só vai precisar saber que a informação que vocês vão querer é que forma a gente tem que padronizar a forma com que essa informação chega pra gente, né? 
+
+0:36:53.353 --> 0:36:57.113 
+Pedro Souza 
+Porque para justamente definir certinho as entradas ali para ferramenta? 
+
+0:36:54.663 --> 0:36:54.903 
+João Silva 
+Para. 
+
+0:36:57.123 --> 0:37:8.83 
+Pedro Souza 
+Não, não se perder também não trouxe coisa errada e adaptar uma outra coisa De parâmetro de instrução para ir para ela entender que, tipo agora tem isso aqui também também faça isso. 
+
+0:36:57.783 --> 0:36:59.273 
+João Silva 
+Hoje você não. 
+
+0:37:0.153 --> 0:37:1.433 
+João Silva 
+Eu a tela, né? 
+
+0:37:2.133 --> 0:37:3.353 
+João Silva 
+É, eu quero te levar. 
+
+0:37:9.523 --> 0:37:20.963 
+Pedro Souza 
+Então, acho que segue mais ou menos essa essa ideia, já que não é para fazer um documento com um Monte de coisa, continuar um para cada processo e tudo mais seria isso. 
+
+0:37:15.183 --> 0:37:17.93 
+João Silva 
+Pergunta ela, perto de uma coisa aqui. 
+
+0:37:20.453 --> 0:37:21.253 
+João Silva 
+Pois é, pessoal. 
+
+0:37:21.113 --> 0:37:23.853 
+Pedro Souza 
+Se for dessa forma que eles quiserem seguir, né? 
+
+0:37:24.903 --> 0:37:27.683 
+João Silva 
+Mas vamos, vamos pedir essa validação para eles, né? 
+
+0:37:27.693 --> 0:37:29.853 
+João Silva 
+Para ver se, se o nosso entendimento está correto. 
+
+0:37:28.703 --> 0:37:29.73 
+Pedro Souza 
+Um. 
+
+0:37:29.93 --> 0:37:58.403 
+Pedro Souza 
+Sim, é sim que até onde eu entendi, é bem que isso a gente vai continuar fazendo um BP depor processo ali com baseado tenho que eu, De de ódio, a gente tem aqui o de vendas, tem aquilo de XYVA, gente, pega todas as transcrições do work shop e vai montando esse documento que a gente já tem de tópicos que por enquanto a gente está com essa ideia aí, trazer informações a mais, se for o caso, porque se foi isso, eu acho que é tranquilo, mas realmente eu acho que a gente precisa validar, então no caso, é. 
+
+0:37:48.53 --> 0:37:48.473 
+João Silva 
+Oo. 
+
+0:37:59.333 --> 0:38:0.433 
+Pedro Souza 
+Para ver se é isso mesmo que eles querem. 
+
+0:38:1.723 --> 0:38:6.773 
+João Silva 
+Então, beleza, então vamos, eu vou provocar o Jhonny aqui pra pra puxar 11. 
+
+0:38:3.173 --> 0:38:3.473 
+Pedro Souza 
+Então? 
+
+0:38:6.163 --> 0:38:9.903 
+Pedro Souza 
+É sim, sim, é pra gente alinhar certinho. 
+
+0:38:6.783 --> 0:38:8.343 
+João Silva 
+Qual alguma coisa nesse sentido? 
+
+0:38:9.303 --> 0:38:10.993 
+João Silva 
+E aí, beleza? 
+
+0:38:11.83 --> 0:38:15.293 
+João Silva 
+Então, Combinado, então, bom almoço, obrigado pelas explica ções. 
+
+0:38:13.263 --> 0:38:15.543 
+Pedro Souza 
+Apesar para você também. 
+
+0:38:15.553 --> 0:38:16.143 
+Pedro Souza 
+Obrigado. 
+
+0:38:16.153 --> 0:38:18.423 
+Pedro Souza 
+Eu que agradeço, a gente vai conversando. 
+
+0:38:17.453 --> 0:38:19.343 
+João Silva 
+Qualquer coisa, e só dá um toque, beleza. 
+
+0:38:19.763 --> 0:38:21.293 
+Pedro Souza 
+Há também pode chamar qualquer coisa. 
+
+0:38:21.303 --> 0:38:21.653 
+Pedro Souza 
+Estou aqui. 
+
+0:38:22.403 --> 0:38:23.403 
+João Silva 
+Valeu. Um abraço. 
+
+0:38:23.313 --> 0:38:24.403 
+Pedro Souza 
+Valeu. Um abraço. 
+
+0:38:23.413 --> 0:38:23.733 
+João Silva 
+Tchau, tchau. 
+
+0:38:24.473 --> 0:38:24.713 
+Pedro Souza 
+Tchau, tchau. 

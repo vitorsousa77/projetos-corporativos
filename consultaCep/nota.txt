@@ -1,0 +1,29 @@
+import pandas as pd
+from flask import Flask, jsonify, abort
+
+app = Flask(__name__)
+
+# Carregar o DataFrame uma vez, fora das rotas
+pd_documento = pd.read_csv("python\\SP_POP2022 (1).csv", skiprows=2)
+pd_documento = pd_documento.dropna()
+
+@app.route('/')
+def home():
+    return "A API está no ar!"
+
+@app.route('/dados', methods=['GET'])
+def dados():
+    return jsonify(pd_documento.to_dict(orient='records'))
+
+@app.route('/dados/<int:index>', methods=['GET'])
+def dados_por_indice(index):
+    # Verifica se o índice está dentro do limite do DataFrame
+    if index < 0 or index >= len(pd_documento):
+        abort(404)  # Retorna 404 se o índice não existir
+    
+    # Converte a linha correspondente ao índice em um dicionário
+    linha = pd_documento.iloc[index].to_dict()
+    return jsonify(linha)
+
+if __name__ == '__main__':
+    app.run()
