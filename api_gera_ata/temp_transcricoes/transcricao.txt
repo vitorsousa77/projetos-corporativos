@@ -1,0 +1,181 @@
+# AVISO: Este arquivo foi ANONIMIZADO para fins de portfólio. Todos os nomes de pessoas e empresas foram substituídos por nomes fictícios.
+# Nenhuma informação real está presente neste texto.
+
+L1.5 - Job Shadowing Consultoria Fictícia para Empresa Fictícia Sistema ERP - pt 1-20240821_150239-Registrazione della riunione
+21 de agosto de 2024, 01:02PM
+1h 59m 20s
+
+Ana Souza começou a transcrição
+
+Carlos Silva, Paula Lima   0:04
+Para nosso projeto, considerando o fato de que.
+Empresa Fictícia confirmou que a parte teórica.
+Está claro que limitamos as sessões a duas horas porque inicialmente estimamos a duração para seis horas.
+Então, com base na suposição de que talvez o treinamento em si precisasse de 10 a 20 horas, mas agora considerando que para eles os procedimentos estavam claros.
+Como também antecipado em e-mail e no convite, vamos passar pelos tópicos aplicáveis ao Sistema ERP.
+Então, Pedro Santos, se puder compartilhar sua tela novamente.
+
+João Pereira, Pedro Santos   0:59
+Sim, claro.
+Paula, olá a todos, vou compartilhar minha tela.
+Vocês conseguem ver minha tela?
+
+Maria Oliveira   1:20
+Sim.
+
+Ana Souza   1:21
+Sim, senhora.
+
+Lucas Costa   1:22
+Sim.
+
+João Pereira, Pedro Santos   1:24
+Ok.
+Para começar com o primeiro tópico, que é o ajuste de estoque no sistema.
+Espero que tenham recebido o material compartilhado.
+
+Carlos Silva, Paula Lima   1:41
+Sim.
+Tudo foi feito, sim.
+
+Maria Oliveira   1:41
+Ok. Sim.
+
+João Pereira, Pedro Santos   1:45
+Ok, perfeito.
+Ajuste de estoque.
+Tudo certo?
+Sim.
+Primeiro acessamos o Sistema ERP.
+Entro na transação SE 38.
+E o programa é este aqui.
+Coloco o programa e executo.
+Aqui preciso colocar o produto e a localização mencionados na solicitação.
+Por exemplo, tenho o produto com código 768.
+Quando o ticket e a localização são Planta BRPA, coloco o produto 768.
+83510 e localização como BRPA, sim.
+Executamos em primeiro plano para que não haja spool ou nada criado, é apenas uma execução única.
+Para verificar isso, entramos no livro de planejamento.
+A transação é ERP/STP94 e para o ajuste de estoque há um livro de planejamento.
+Filtramos por esse livro.
+Procuro pelo ajuste de estoque.
+O livro de planejamento é este.
+Começa com Z e devemos escolher o que termina com _B.
+Este é o livro de planejamento.
+Nele escolhemos a visualização do produto.
+Uma vez feito isso, temos a chave de ajuste de estoque positivo e negativo.
+Quando tentamos carregar o produto, aqui teremos valores ajustados pelo usuário de negócios conforme o planejamento deles.
+Isso é o que querem deletar.
+Depois de rodar o programa, isso não deve mais estar presente.
+Isso deve ser deletado.
+Sobre o ajuste de estoque.
+Só para informação, temos os usuários que adicionam esse ajuste pela transação.
+Não fazemos nada além de deletar o que está nessa chave executando o programa.
+Se estiver claro, prossigo para o próximo.
+Obrigado.
+
+Fernanda Almeida   4:55
+Esse é o único livro de planejamento alterado para essa área ou pode haver solicitação para alterar outro?
+
+João Pereira, Pedro Santos   4:56
+Ok.
+Entendi.
+
+Fernanda Almeida   5:08
+Esse é uma cópia, certo?
+Pode haver outro solicitado?
+
+João Pereira, Pedro Santos   5:11
+Sim.
+Não, especialmente o ajuste de estoque é feito nesse livro para os códigos 768.
+A solicitação será especificamente para os 768, que são produtos semiacabados.
+
+Fernanda Almeida   5:29
+Ok.
+
+João Pereira, Pedro Santos   5:33
+O usuário mencionou no ticket também o 768, o livro de planejamento, ou pode confirmar novamente.
+Basicamente é para o 768.
+O código começando com 768.
+Prossigo para o próximo tópico, que é o PPM.
+Geralmente todo dia o PPM é carregado do ECC para o Sistema ERP pelas elaborações ou que rodam à noite.
+Às vezes pode acontecer do PPM não ser carregado, então quando recebemos uma solicitação, o PPM não está presente, fazemos várias verificações.
+Faz parte deste documento.
+Primeiro pego um exemplo e código para verificar.
+Junho, julho.
+Ok, só um segundo.
+Vou pegar um produto como exemplo.
+Se recebermos uma solicitação de que o PPM não está presente para esse código, primeiro verificamos no Sistema ERP, transação para verificar o PPM é ERP/S03.
+Escolho a opção de planejamento via PPM, coloco o código e removo uso de plano se estiver preenchido.
+Exibo.
+Se o PPM estiver presente, teremos as informações relacionadas ao produto, plano e produção.
+Se não estiver, aparece um pop-up sem informações.
+Assim sabemos que o PPM não está presente.
+Depois acessamos o ECC.
+Na transação Extra 16 temos a tabela ZPP_PLQ.
+Essa tabela tem todas as informações dos modelos que podem ser enviados do ECC para o Sistema ERP.
+Coloco o material e executo.
+Aqui tenho informações dos modelos criados para esse material e diferentes versões.
+As versões são criadas por ano.
+Para o próximo ciclo, 2025, há P5 e para o atual, P4 e alguns S.
+As versões são P e S e o importante é verificar planta e versões.
+Outro campo é o status.
+Status 90 ou 91 significa bloqueado ou cancelado, não pode passar para o Sistema ERP.
+Outros status podem ser movidos.
+O status é definido pelo negócio, mas 90 e 91 não passam, precisam criar novo.
+Se temos modelos, verificamos o status, alguns estão em 02, prontos para passar para o Sistema ERP.
+Depois rodamos o programa, transação SE 38.
+O programa para enviar o PPM do ECC para o Sistema ERP é este.
+Executo e escolho a variante, variantes são definidas por planta.
+Procuro pelo código inicial, só muda a planta.
+Procuro pelo código, aqui tenho todas as variantes para diferentes plantas.
+No meu caso, para o código era para ZA.
+Procuro pela variante para ZA.
+Essa é a variante usada para o programa principal, uma cópia é criada pelo mesmo usuário que já carregou o PPM manualmente.
+Criam com _owner.
+Assim não afeta a principal usada pelas elaborações.
+A cópia é criada, é só uma cópia.
+Ao escolher a variante, verifique a planta correta.
+Depois, a versão de produção.
+Versões de produção nem sempre estão aqui.
+Temos P4 atualmente, depois P5, algumas S.
+É necessário preencher todas as versões associadas.
+Se não tem P4 porque está em 90, mas ainda assim pode pegar todas as P4 e P5.
+Verifique planta, versão de produção e material.
+O usuário anterior já terá os códigos, só apagar e colocar o seu.
+É obrigatório marcar teste.
+Aqui não rodamos imediatamente, só testamos se o código pode ser passado para o Sistema ERP.
+Marco teste e executo.
+Se houver muitos códigos, demora, se poucos, carrega rápido.
+Filtro pelo meu código.
+Haverá dois status: a ser carregado e carregado.
+Por exemplo, para a versão P5, se for na tabela, tem P5 e S5, ambos em uma só entrada, mas o programa considera como um só.
+Já tivemos versões S4, mas o programa exclui status 90 e 91.
+O programa não busca essas versões porque já estão em 90.
+Status carregado indica que pode passar para o Sistema ERP.
+Se não pode ser carregado, aparece status não carregado.
+Para saber o motivo, veja a coluna de mensagem, geralmente é operação principal não encontrada, solução é inserir o ciclo.
+Usuários de negócio atualizam o modelo.
+A chave ERP é obrigatória no modelo.
+Se esquecerem de atualizar, não passa para o Sistema ERP.
+Se receber mensagem de erro, é isso.
+Para resolver, peça ao usuário para contatar o responsável da planta para atualizar a chave ERP.
+Depois de atualizar, os modelos podem ser passados.
+Se tudo certo, status carregado, só teste.
+Depois disso, salve a variante.
+Ao salvar, edite o nome da variante, geralmente já existe uma cópia.
+Se for a principal, edite o nome para criar uma cópia.
+Se for a primeira vez, crie a variante.
+Para todas as plantas, já existe owner porque já foi carregado antes.
+Salve, aparece pop-up, clique em sim, variante salva.
+Depois crie um job, transação SM36, nome do job Z_LOAD_PPM baseado no país.
+No caso, ZA para África do Sul, BR para Brasil, AR para Argentina.
+Depois vá para o passo, usuário será batch, preencha a variante copiada.
+Salve o job, clique em condição de início, imediato, salve para rodar o job.
+Depois vá para SM37 para checar o job.
+Rode pelo seu nome, execute.
+Aqui já está finalizado.
+Se tiver muitos códigos, pode demorar.
+Quando finalizar, os documentos são gerados.
+Depois processe os documentos na transação BAT7, coloque o horário.
+1523 é o horário, coloque mais 5 minutos.
